@@ -5,6 +5,7 @@
 >
 > As the Marxist Scrooge, Lenin is supposed to have actively willed the peasants’ situation to be as bad as possible. But in 1899 he wrote that ‘Social Democrats cannot remain indifferent spectators of the starvation of the peasants and their destruction from death by starvation. Never could there be two opinions among Russian Social Democrats about the necessity of the broadest possible help to the starving peasants.’ An otherwise hostile émigré memoirist remembers Lenin himself working in one of the canteens set up to help the peasants in 1891–2.  
 >
+<br/>
 
 > On the ‘socialism’ side, the interaction of Social Democratic ideals with the realities of Russian society lead to the creation of a new social type, the *praktik*, the activists who actually ran local organizations. This new type was something of a hybrid, made up of both plebeian intellectuals and ‘*intelligentnye* workers’ (workers who adopted intelligentsia ideals). The worker contribution to this hybrid social type, crucial both to Social Democratic discourse and practice, was called the ‘purposive worker’ (more usually translated as ‘conscious worker’). The purposive worker was not only militant, but also determined to be ‘rational and cultured’. He or she wanted to think well, to behave well, to dress well, to use proper grammar and to avoid strong drink. Semën Kanatchikov, a worker whose memoirs are the best entrée into the outlook of this social type, describes himself:  
 >
@@ -12,9 +13,11 @@
 >
 > But this sense of mission and self-worth was fragile, and Kanatchikov recalls the loneliness of a ‘few solitary revolutionary youths’ among ‘the inert, sometimes even hostile masses’.  
 >
+<br/>
 
 > Lenin saw the whole episode as confirmation that his heroic scenario was not the idle dream of an impotent revolutionary, for it was turning into reality before his eyes. The factory workers were ready to play the role assigned to them. Once they were aware of their interests, they were ready to fight, and ‘no amount of persecution, no wholesale arrests and deportations, no grandiose political trials, no hounding of the workers have been of any avail’. The next step was for the advanced workers to stir up the more backward workers. ‘Unless the entire mass of Russian workers is enlisted in the struggle for the workers’ cause, the advanced workers of the capital cannot hope to win much.’  
 >
+<br/>
 
 > The organizational goal of the SPD-inspired underground is expressed by the last sentence: ‘None of the “rank and file” knows the address or the members of the organization, yet its influence grows.’ Is this possible? Can a secret organization really have growing mass influence? The solution to this problem worked out by a generation of Social Democratic activists can be called the threads strategy, as set forth in 1906 by M. Liadov, a Bolshevik who broke with Lenin some years later. According to Liadov the challenge facing the underground was ‘to expand as much as possible the framework of a secret organization, and, while preserving intact the konspiratsiia character of the [party] staff, connect it with a whole series of threads to the mass’.22  
 >
@@ -22,17 +25,21 @@
 >
 > In a dispute with veteran populist Petr Lavrov that Lenin conducted during his Siberian exile, Lenin energetically rejected the strategy of conspiracy and associated methods such as individual terror. Old-timers like Lavrov automatically equated anti-tsarist political struggle with bomb-throwing conspiracies. They therefore assumed that the Social Democrats, who rejected conspiracy, were not serious about achieving political freedom by revolutionary means. But there was a real alternative to old-fashioned conspiracy (responded Lenin): an underground organization connected by a variety of threads to a mass constituency, one that manages to stay in existence through strict observance of the rules of konspiratsiia.  
 >
+<br/>
 
 > Led by the urban workers, the masses had effectively wielded a ‘purely proletarian weapon, the mass political strike, on a scale unprecedented even in the most developed countries’. They had set up new authoritative institutions: the myriad soviets, peasant committees and other organizations that had spontaneously sprung up during the revolution. These new institutions were distinguished by extreme democratism: ‘a public authority [vlast] open to all, one that carried out all its functions before the eyes of the masses, that was accessible to the masses, springing directly from the masses, and a direct and immediate instrument of the mass of the narod, of its will’. Lenin did regret the anarchic violence of the masses – not because it was violent but because it was anarchic. As Lenin expressed it a year or so later, a revolutionary Social Democrat should never indulge in ‘hackneyed, philistine, petty-bourgeois moralizing’ about violence. The proper response was rather to transform ‘aimless, senseless, sporadic acts of violence into purposeful, mass violence’.  
 >
+<br/>
 
 > Lenin’s attachment to the konspiratsiia underground becomes understandable when we remember the role it plays in his heroic scenario. The konspiratsiia underground was the one place in Russia where the Social Democratic message could be proclaimed boldly and uncompromisingly, the one place where the banner of socialism and the democratic republic could be proudly unfurled. This could not happen in any organization that was legally permitted in Stolypin’s Russia. Furthermore, the miracle of 1905 showed that, even under tsarism, an underground party could be built that was ‘really capable of leading classes. In the spring of 1905 our party was a league of underground groups; in the autumn it became the party of millions of the proletariat. Do you think, my dear sirs, this came all of a sudden, or was the result prepared and secured by years and years of slow, obstinate, inconspicuous, noiseless work?’  
 >
+<br/>
 
 > Do we need to resort to Lenin’s individual personality or to his ideological scenario in order to explain his demand in the Penza telegram for grisly reprisals against violent rebellion? Neither explanation seems likely, as shown by similar actions taken by people who did not share Lenin’s personality or his ideology, but who did share his objective problem, namely, establishing a new political authority in conditions of social chaos and economic breakdown. One non-Bolshevik activist, A. V. Peshekhonov, later recalled waking up one morning in Rostov under one of the anti-Bolshevik White governments and finding corpses hanging from the lampposts all over town, by order of the government.35  
 >
 > Nevertheless, knowledge of Lenin’s heroic scenario is needed to make full sense of the Penza telegram. Lenin insists that the narod should see the hangings. Why? to terrorize them? Not in Lenin’s mind. Lenin was convinced that the narod hated the ‘blood sucker kulaks’ and would praise the worker vlast for taking them on. The executions were meant as a form of inspiring class leadership. As such, they played a part in a narrative that Lenin was telling himself and others in autumn 1918. According to Lenin, civil-war battles had provoked kulak uprisings such as the one in Penza and these in turn accelerated the workings of his heroic scenario. Lenin’s long-held scenario outlined, first, a political revolution against the tsar in alliance with the whole peasantry and, second, a socialist revolution made possible by the urban proletariat’s growing influence over the rural proletariat and semi-proletariat. The revolution of October 1917 had been in alliance with the whole peasantry and thus, by the logic of Lenin’s own scenario, it was essentially a political rather than a true socialist revolution. Lenin’s loyalty to his scenario is shown by his eagerness in late 1918 to announce that kulak rebellions had kick-started a new phase of the revolution, one in which the kulak exploiters were finally sloughed off from the revolutionary coalition, thus allowing the workers to fight alongside only the exploited labourers in the village.  
 >
+<br/>
 
 > Despite the absence of actual revolution Lenin insisted that the Soviet system remained an inspirational model to the exploited people of the world. He even boasted that Soviet Russia was winning support from capitalists – specifically, the capitalists of the small countries bordering Russia who signed trade treaties with the Bolsheviks despite pressure from the victorious great powers.  
 >
@@ -50,9 +57,11 @@
 >
 > Lenin’s remarks show his old respect for ‘freedom of the press’ as the essence of ‘freedom of political organization’, but combined now with a new sense of vulnerability.  
 >
+<br/>
 
 > Gradually Lenin worked out a new and more ambitious scenario: enlist the middle peasant directly into the socialist cause. But how? What could convince the middle peasant of the advantages of socialism? Existing models of collective agricultural production – the kommuny and state farms run by poor peasants – were embarrassing failures. Furthermore, the use of violence to transform production relations was a non-option. This point needs to be brought out, precisely because there was a lot of state violence against the peasantry during the civil war, both to extract needed resources and to crush peasant rebels. But these traditional forms of state violence were sharply distinguished in Lenin’s mind – and no doubt in peasant consciousness as well – from violence used to transform production methods. From a Marxist point of view coercing people to adopt a higher form of production was not so much wrong as absurd.  
 >
+<br/>
 
 > Lenin’s attempts to move beyond the ‘textbook à la Kautsky’ took its toll. From 1919 his speeches lose their earlier sharpness and become progressively more unfocused, repetitive, digressive. He becomes defensive and halting as he searches for a way to match his ideological scenario with events. A new and unexpected quality appears: Lenin is unsure of himself.  
 >
@@ -68,6 +77,7 @@
 >
 > Do all these faded hopes mean that our socialist critics were right and that Russia was not ready for socialism? Yes, but – who’s to say that a proletarian vlast cannot pull itself up by its own bootstraps by itself creating the cultural prerequisites for socialism?"  
 >
+<br/>
 
 > When we turn to the political impact of Lenin’s heroic scenario, we are immediately confronted with a paradox. The central episode of the heroic scenario was the battle to bring political freedom to Russia, yet Lenin founded a regime in which political freedoms – rights of speech, assembly, association, etc. – were conspicuously absent. The paradox is a real one, since the logic of the heroic scenario worked to expand Russia’s political freedom at one stage and to contract it at another. Strange as it may appear, Lenin was as influential as any other single individual in bringing about the political freedom that Russia enjoyed between 1905 and 1917. There would have been no far-reaching revolution in 1905 if sections of the working class had not been prepared to take to the streets demanding political freedom, and there would have been no mass action of this kind if a small band of socialists had not spent over a decade propagating the connection between worker interests, socialist ideals and political freedom. From the very beginning of his political career, Lenin was a prominent and passionate member of this small band.  
 >
@@ -83,3 +93,4 @@
 >
 > All in all, Lenin’s heroic scenario was far from realistic. Yet perhaps his utter confidence in it was the necessary illusion that enabled him to confront a situation of stormy political and economic collapse. In 1917 Lenin stood tall among the leaders of other Russian parties because they had enough sense to be frightened out of their wits by the oncoming disaster – the social and economic breakdown that was just around the corner – whereas he saw it as an opportunity. Lenin can be viewed as a Noah figure, confidently building his ark as the flood waters rose. As it turned out, the ark was leaky because it was built on unsound assumptions, the voyage involved more suffering than anyone bargained for, and the ark ended up far from where its builder planned. But nevertheless the ark did ride out the storm.  
 >
+<br/>

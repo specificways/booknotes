@@ -5,6 +5,7 @@
 >
 > The concept of revolutionary suicide is not defeatist or fatalistic. On the contrary, it conveys an awareness of reality in combination with the possibility of hope—reality because the revolutionary must always be prepared to face death, and hope because it symbolizes a resolute determination to bring about change. Above all, it demands that the revolutionary see his death and his life as one piece. Chairman Mao says that death comes to all of us, but it varies in its significance: to die for the reactionary is lighter than a feather; to die for the revolution is heavier than Mount Tai.  
 >
+<br/>
 
 > This is pretty much the way things went all during junior high. On the surface, my record was dismal. Yet those years were not significantly different from the adolescence of many Blacks. We went to school and got kicked out. We drifted into patterns of petty delinquency. We were not necessarily criminally inclined, but we were angry. We did not feel that stealing a bottle of wine or “cracking” parking meters was wrong. We were getting back at the people who made us feel small and insignificant at a time when we needed to feel important and hopeful. We struck out at those who trampled our dreams.  
 >
@@ -12,17 +13,21 @@
 >
 > That is the story of my friend James Crawford; another dream blown to hell.  
 >
+<br/>
 
 > My father’s constant preoccupation with bills is the most profound and persistent memory of my childhood. We were always in debt, always trying to catch up. From an early age “the bills” meant I could not have any of the extra things I wanted. I hated the word so much it made me cringe inside, just the way I felt listening to *Little Black Sambo* and the Tar Baby stories. For me, no words on the street were as profane as “the bills.” It killed me a little each time they were mentioned, because I could see the never-ending struggle and agony my father went through trying to cope with them. It is a situation familiar to most people in the Black community. In one of his letters to his father, George Jackson spoke for me: “How do you think I felt when I saw you come home each day a little more depressed than the day before? How do you think I felt when I looked in your face and saw the clouds forming, when I saw you look around and see your best efforts go for nothing—nothing.” I know exactly what he meant.  
 >
+<br/>
 
 > I held on to the idea that I was immune to death for a long time. I still do not fear the end, but I no longer believe that I cannot be killed. Life has taught me that it is an ever-present possibility; too many of my comrades have died in the past few years to let me feel that my last day will never come. Even so, I tell the comrades you can only die once, so do not die a thousand times worrying about it.  
 >
+<br/>
 
 > Once or twice I asked Melvin to pronounce a word for me or explain it. He was shocked that I could not recognize some of them and at first, I think, disgusted. That hurt. His disgust could not compare with my own. He said that not knowing how to read was a very bad thing, but I knew that by then, and his disapproval made it even more difficult to learn. My sense of shame had kept me from seeking help earlier; now it became impossible for me to ask. I had to do it by myself.  
 >
 > It seems to me that nothing is more painful than a sense of shame that overwhelms you and afflicts the soul. This pain may not even be your fault, but it can still be very acute. It hurts more when you know that there is no natural process, as in the body, whereby the pain will go away. You have to relieve it with your own strength of will, your own discipline, and determination. I had been hurt many times in fights, but nothing equaled the pain I felt at not being able to read. The pain from fighting went away in time. The shame I felt would not go away.  
 >
+<br/>
 
 > I went to Berkeley to find Warden and hear what he was saying. The first member I met, though, was Maurice Dawson, one of Warden’s tight partners. He turned me off with his arrogance. I had come searching for something, and he scorned me because I did not already know what I was seeking. I could not understand what he was saying about “Afro-Americans.” The term was new to me. Dawson really put me down.  
 >
@@ -40,12 +45,15 @@
 >
 > Maurice taught me a lesson that I try to apply to the Black Panther Party today. I dissuade Party members from putting down people who do not understand. Even people who are unenlightened and seemingly bourgeois should be answered in a polite way. Things should be explained to them as fully as possible. I was turned off by a person who did not want to talk to me because I was not important enough. Maurice just wanted to preach to the converted, who already agreed with him. I try to be cordial, because that way you win people over. You cannot win them over by drawing the line of demarcation, saying you are on this side and I am on the other; that shows a lack of consciousness. After the Black Panther Party was formed, I nearly fell into this error. I could not understand why people were blind to what I saw so clearly. Then I realized that their understanding had to be developed.  
 >
+<br/>
 
 > One day, in 1965, as I was walking across Grove Street to the college, I saw a white man sideswipe a brother’s car. A motorcycle cop came up, and the two drivers entered into an argument over who was wrong. The cop was about to write a ticket for the brother. I had been standing there with the other people watching this incident, and I waked over to the white man and told him that he was wrong. Angry at this, the cop told me to be quiet because I was not involved. I came back at him and told him that I was involved because I knew how he treated people on the block. The fact that he had a gun, I said, did not give him the right to intimidate me. The gun did not mean anything, because the people were going to get guns of their own and take away the guns of the police. I ran these things down to him in front of all the people. That was the first time I stood a policeman down.  
 >
+<br/>
 
 > Institutions work this way. A son is murdered by the police, and nothing is done. The institutions send the victim’s family on a merry-go-round, going from one agency to another, until they wear out and give up. This is a very effective way to beat down poor and oppressed people, who do not have the time to prosecute their cases. Time is money to poor people. To go to Sacramento means loss of a day’s pay—often a loss of job. If this is a democracy, obviously it is a bourgeois democracy limited to the middle and upper classes. Only they can afford to participate in it.  
 >
+<br/>
 
 > To us, the key point in the trial was police brutality, but we hoped to do more than articulate that. We also wanted to show that the other kinds of violence poor people suffer—unemployment, poor housing, inferior education, lack of public facilities, the inequity of the draft—were part of the same fabric. If we could organize people against police brutality, as we had begun to do, we might move them toward eliminating related forms of oppression. The system, in fact, destroys us through neglect much more often than by the police revolver. The gun is only the *coup de grâce*, the enforcer. To wipe out the conditions leading up to the *coup de grâce*—that was our goal. The gun and the murder it represented would then fade away. Thus, for the Black Panther Party, the goal of the trial was not primarily to save my life, but to organize the people and advance their struggle.  
 >
@@ -53,36 +61,45 @@
 >
 > Because I saw my death growing closer, I often wondered how I would prepare for it. A person never knows how he will act prior to the experience itself. Knowing that the most valuable thing anyone has is his life, I could not be sure in what way I would give it up, particularly under the threat of the gas chamber. I had faced death before, but under different circumstances. There had been a spontaneity and a suddenness in each confrontation, and the possibility of outwitting death. But when the state kills you, there are no odds; the inevitability of death is absolute. To face execution by the state demands a special kind of courage—the ability to act with grace and dignity in a totally degrading situation. It is the ultimate form of truth.  
 >
+<br/>
 
 > Let us go on outdoing ourselves; a revolutionary man always transcends himself or otherwise he is not a revolutionary man, so we always do what we ask of ourselves or more than what we know we can do.  
 >
+<br/>
 
 > The prisons definitely need to be transformed, but this cannot be accomplished in a vacuum or by random incidents. Prisons are an integral part of a complex whole that can be defined as the American institutional superstructure of the world. I say the world because the United States is an empire, not a nation, and the way prisoners and minorities are treated here has a definite relation to the way the American power structure treats people around the world. The world must become a place in which poor and oppressed people can live in peace and with dignity. If we still need prisons after that transformation, they must be true rehabilitation centers rather than concentration camps. In the new society the centers would not be called prisons or penal institutions and they would not be ancient rock fortresses in inaccessible areas. They would be an important part of the community, in which people who are not well or who are unhappy would still be made to feel that they are part of humanity. Most of the men in prison have been made to feel superfluous from birth. James Baldwin has pointed out that the United States does not know what to do with its Black population now that they “are no longer a source of wealth, are no longer to be bought and sold and bred, like cattle.” This country especially does not know what to do with its young Black men. “It is not at all accidental,” he says, “that the jails and the army and the needle claim so many. . . .”  
 >
+<br/>
 
 > And so, when the reversal of my conviction by the California Appellate Court was announced on Friday, May 29, it came as a complete surprise. I had spent the day in the visiting room, hearing nothing, and about four-thirty I was on my way back to my cell when a prisoner stopped me and said that he had heard on his radio that my conviction had been reversed. I did not believe him, and he could scarcely believe it himself, so I asked him to recheck. When I got back to the quad, the guard in charge of my tier got red-faced when he saw me. He said nothing, just turned the color of fresh-cooked lobster and fumbled with his key while locking me in my cell. Only then did I begin to suspect that something good had happened.  
 >
 > Outside in the yard, beneath my window, I heard a great commotion; a group of prisoners were gathered there, throwing up rocks and clapping hands. They were so happy and excited that I began to feel optimistic, too. Prisoners are not allowed to congregate in groups of more than two in the prison yard, but these men were defying the rule. When the guards approached them, the inmates took their identification cards and threw them on the ground in violation of a regulation that requires inmates to surrender their identification cards to guards on demand. After they had thrown them in the dirt, they stood their ground without moving; the guards kept at a distance and did not advance.  
 >
+<br/>
 
 > Guards are odd people. It is incomprehensible to me how a person can endure such a meaningless life day after day, year after year, and seem to be satisfied with it. Their main concerns are dull and petty, centered around retirement, lawns, fishing, hi-fi sets. This guard was near retirement. People like him are really lost, as so many people are, without a purpose in life or the ability to relate to others.  
 >
+<br/>
 
 > Going into the packed courtroom and seeing the reporters on one side, my family, friends, and spectators on the other was like a flashback to the same scene two years before. The whole thing seemed to be starting over again. It reminded me of a line from Kafka’s *The Trial* that I think of when events seem to be repeating themselves. When K., the hero of the novel, is about to be executed, he says “. . . at the beginning of my case I wanted it to finish, and at the end of it [I] wanted it to begin again.” At first K. is bothered by the confusion of going through the court system—the slow wheels of justice or injustice, the questioning, the stifling routine. It is a slow, draining process, which K. equates with the absurd toil and the endless striving of life. I felt the same emotions—wanting the absurdities and the eternal toil to end. Then, at the end, I was not quite ready for it to be over, and felt a vague desire for it to start all over again. Two years were obliterated. The judge sat in the same seat as if he had never moved from it; the attorneys stood at the same table. Perhaps the two years had only been a nightmare between days in court, and now I had awakened, to go through the trial again and again, in a vicious circle.  
 >
+<br/>
 
 > On the first floor we made our way out to the main entrance on Lake Merritt Park. It was a bright, blue-sky day, just the kind of day I had wanted. Looking ahead, I could see thousands of beautiful people and a sea of hands, all of them waving. When I gave them the power sign, the hands shot up in reply and everyone started to cheer. God, it was good. I felt this tremendous sense of release, of liberation, like taking off your shirt on a hot day and feeling free, unbound by anything. Later, I did take my shirt off, but it was obvious now that we would not be able to get out the front door. A mass of cheering supporters stretched from the steps all the way across the street into the park. I had to fight back the tears. It was wonderful to be out, but even more exhilarating to see the concern and emotion of the people. The crush was so overwhelming that we turned back and went to the other exit. But the people quickly ran around to the other side, and as we went down the stairs and into the street they surged around us, shouting joyfully, carrying us along.  
 >
 > My sisters Leola, Doris, and Myrtle ran up to me, and we embraced. Fay Stender, Alex Hoffman, and Edward Keating were in front of me, while Charles Garry was swamped by newsmen. My brothers Melvin and Walter were there, David and Pat Hilliard, Masai Hewitt, the Minister of Education, and many Black Panther comrades. It was almost a stampede. I could not walk; I felt I was suffocating, but it did not matter. In the euphoria I just held on to my relatives, friends, and comrades, and was dragged along, my feet hardly touching the ground. It was a beautiful day.  
 >
+<br/>
 
 > Walking through the streets was an indescribable experience, the closest I have ever felt to being truly free, with people walking by, recognizing me, and waving. I went everywhere, visiting people in the community, to the surprise of many who never expected to see me on the street, only on television or maybe in Hollywood after I was released. But I was determined to get back among them. I walked in Oakland, Berkeley, Richmond, and San Francisco. I went to Seventh Street, Sacramento Avenue, Potrero Hill, Hunter’s Point, Richmond, North Richmond, West Oakland, Peralta Street, Cypress Street, East Oakland, and Parchester Village. I visited several bars, where I had done a lot of recruiting. And everywhere I got the same reaction: people wondered why I had come back to them. I explained that neither news reporters nor television cameras had got me out of prison; the people had freed me, and I had come back to thank them and be with them.  
 >
+<br/>
 
 > Another weakness was the diffuseness of goals among those who came to the convention, especially among the whites. My goals were different from theirs. They had been drawn to the Party by Eldridge’s rhetoric, and their views had come to influence too many of our activities. I made up my mind that we could not let white radicals define the struggle for us; they knew too little about the Black experience and life in Black communities. Deep into the violence of the revolution, they wanted the Black Panthers to write a new Constitution, overthrow the government by force, and implement it. When this did not come about in Washington, we got critical letters claiming we were no longer the vanguard of the movement. I paid no attention. In fact, we were glad to be rid of the radicals because all they did was talk. Those who understood the true nature of revolution stood with us.  
 >
 > The defection of both Eldridge Cleaver and the Party were summed up in the shambles of the Washington convention. Cleaver was demanding that we act out his fantasies of instant power. In Philadelphia, the crowds had been overwhelmingly Black—they kept us down to earth—but in Washington the white radicals’ fantasies and those of Cleaver merged, and we, the all-too-human Black Panthers, could not gratify them. In metaphysical streets, Cleaver and the infantile leftists were waiting on corners for the revolution to come to *them*. We were not able to hand down a manifesto like Moses on Sinai. Our grievous error had been that for a moment in time we, too, had joined the suicidal dance around the golden calf. The bad news from Washington, D.C., the city of lies, was that the American Revolution had only reached the end of the beginning, not the beginning of the end.  
 >
+<br/>
 
 > The Party was born in a particular time and place. It came into being with a call for self-defense against the police who patrolled our communities and brutalized us with impunity. Until then, there had been little resistance to the occupiers. We sought to provide a counterforce, a positive image of strong and unafraid Black men in the community. The emphasis on weapons was a necessary phase in our evolution, based on Frantz Fanon’s contention that the people have to be shown that the colonizers and their agents—the police—are not bulletproof. We saw this action as a bold step in making our program known and raising the consciousness of the people.  
 >
@@ -92,9 +109,11 @@
 >
 > But revolution is not an action; it is a process. Times change, and policies of the past are not necessarily effective in the present. Our military strategies were not frozen. As conditions changed, so did our tactics. Patrolling the community was only one step in our ten-point program and had never been regarded as the sole community endeavor of the Black Panther Party. As a matter of fact, the right to bear arms for protection appeared near the end of our program, as Point 7, and came only after those demands we considered far more urgent—freedom, employment, education, and housing. Our community programs—now called survival programs—were of great importance from the beginning; we had always planned to become involved in Black people’s daily struggle for survival and sought only the means to serve the community’s needs.  
 >
+<br/>
 
 > Camus wrote that the revolutionary’s “real generosity toward the future lies in giving all to the present.” This, he says, grows out of an intense love for the earth, for our brothers, for justice. The Black Panther Party embraces this principle. By giving all to the present we reject fear, despair, and defeat. We work to repair the breaches of the past. We strive to carry out the revolutionary principle of transformation, and through long struggle, in Camus’s words, “to remake the soul of our time.”  
 >
+<br/>
 
 > There is an old African saying, “I am we.” If you met an African in ancient times and asked him who he was, he would reply, “I am we.” This is revolutionary suicide: I, we, all of us are the one and the multitude.  
 >
@@ -102,8 +121,10 @@
 >
 > The difference lies in hope and desire. By hoping and desiring, the revolutionary suicide chooses life; he is, in the words of Nietszche, “an arrow of longing for another shore.” Both suicides despise tyranny, but the revolutionary is both a great de spiser and a great adorer who longs for another shore. The reactionary suicide must learn, as his brother the revolutionary has learned, that the desert is not a circle. It is a spiral. When we have passed through the desert, nothing will be the same.  
 >
+<br/>
 
 > The reactionary suicide is “wise,” and the revolutionary suicide is a “fool,” a fool for the revolution in the way that Paul meant when he spoke of being “a fool for Christ.” That foolishness can move the mountain of oppression; it is our great leap and our commitment to the dead and the unborn.  
 >
 > We will touch God’s heart; we will touch the people’s heart, and together we will move the mountain.  
 >
+<br/>

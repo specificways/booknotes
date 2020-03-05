@@ -7,6 +7,7 @@
 >
 > The Gujarat pogrom dovetailed nicely with the international climate of Islamophobia. The War on Terror had been declared. Afghanistan had been bombed. Iraq was already on the radar. Within months of the massacre, a fresh election was announced in Gujarat. Modi won it hands down. A few years into his first tenure, some of those involved in the 2002 pogrom were caught on camera boasting about how they had hacked, burned, and speared people to death. The footage was broadcast on the national news. It only seemed to enhance Modi’s popularity in the state, where he won the next two elections as well, securing the backing of several heads of major corporations along the way, and remained chief minister for twelve years.  
 >
+<br/>
 
 >   
 >
@@ -22,6 +23,7 @@
 >
 > It could end in an afternoon.  
 >
+<br/>
 
 > Meanwhile, economists cheering from the pages of corporate newspapers inform us that the GDP growth rate is phenomenal, unprecedented. Shops are overflowing with consumer goods. Government storehouses are overflowing with food grain. Outside this circle of light, farmers steeped in debt are committing suicide in the hundreds. Reports of starvation and malnutrition come in from across the country. Yet the government allowed 63 million tons of grain to rot in its granaries.17 Twelve million tons were exported and sold at a subsidized price the Indian government was not willing to offer the Indian poor. Utsa Patnaik, the well-known agricultural economist, has calculated food grain availability and food grain absorption in India for nearly a century, based on official statistics. She calculates that in the period between the early 1990s and 2001, food grain absorption has dropped to levels lower than during the World War II years, including during the Bengal Famine, in which 3 million people died of starvation.19 As we know from the work of Professor Amartya Sen, democracies don’t take kindly to starvation deaths. They attract too much adverse publicity from the “free press.”20 So dangerous levels of malnutrition and permanent hunger are the preferred model these days. Forty-seven percent of India’s children below three suffer from malnutrition, 46 percent are stunted.21 Utsa Patnaik’s study reveals that about 40 percent of the rural population in India has the same food grain absorption level as sub-Saharan Africa.22 Today, an average rural family eats about 100 kilograms less food in a year than it did in the early 1990s.23  
 >
@@ -39,11 +41,13 @@
 >
 > When we vote, we choose which political party we would like to invest the coercive, repressive powers of the state in.  
 >
+<br/>
 
 > Right now in India we have to negotiate the dangerous crosscurrents of neoliberal capitalism and communal neo-fascism. While the word capitalism hasn’t completely lost its sheen yet, using the word fascism often causes offense. So we must ask ourselves, are we using the word loosely? Are we exaggerating our situation, does what we are experiencing on a daily basis qualify as fascism?  
 >
 > When a government more or less openly supports a pogrom against members of a minority community in which up to two thousand people are brutally killed, is it fascism? When women of that community are publicly raped and burned alive, is it fascism? When authorities collude to see to it that nobody is punished for these crimes, is it fascism? When one hundred fifty thousand people are driven from their homes, ghettoized, and economically and socially boycotted, is it fascism? When the cultural guild that runs hate camps across the country commands the respect and admiration of the Prime Minister, the Home Minister, the Law Minister, the Disinvestment Minister, is it fascism? When painters, writers, scholars, and filmmakers who protest are abused, threatened, and have their work burned, banned, and destroyed, is it fascism? When a government issues an edict requiring the arbitrary alteration of school history textbooks, is it fascism? When mobs attack and burn archives of ancient historical documents, when every minor politician masquerades as a professional medieval historian and archaeologist, when painstaking scholarship is rubbished using baseless populist assertion, is it fascism? When murder, rape, arson, and mob justice are condoned by the party in power and its stable of stock intellectuals as an appropriate response to a real or perceived historical wrong committed centuries ago, is it fascism? When the middle-class and the well-heeled pause a moment, tut-tut, and then go on with their lives, is it fascism? When the Prime Minister who presides over all of this is hailed as a statesman and visionary, are we not laying the foundations for full-blown fascism?  
 >
+<br/>
 
 > So then, should we do what our Prime Minister suggests we do? Renounce dissent and enter the fray of electoral politics? Join the road show? Participate in the shrill exchange of meaningless insults which serve only to hide what is otherwise an almost absolute consensus? Let’s not forget that on every major issue—nuclear bombs, Big Dams, the Babri Masjid controversy, and privatization—the Congress sowed the seeds and the BJP swept in to reap the hideous harvest.  
 >
@@ -59,6 +63,7 @@
 >
 > However, being poor is not the same as being weak. The strength of the poor is not indoors in office buildings and courtrooms. It’s outdoors, in the fields, the mountains, the river valleys, the city streets, and university campuses of this country. That’s where negotiations must be held. That’s where the battle must be waged.  
 >
+<br/>
 
 > A Dutch documentary filmmaker recently asked me a very simple question: What can India teach the world?  
 >
@@ -74,9 +79,11 @@
 >
 > What is happening to our world is almost too colossal for human comprehension to contain. But it is a terrible, terrible thing. To contemplate its girth and circumference, to attempt to define it, to try and fight it all at once, is impossible. The only way to combat it is by fighting specific wars in specific ways. A good place to begin would be the Narmada valley.  
 >
+<br/>
 
 > The fact is that what’s happening in India today is not a *problem*, and the issues that some of us are raising are not *causes*. They are huge political and social upheavals that are convulsing the nation. One is not involved by virtue of being a writer or activist. One is involved because one is a human being. Writing about it just happens to be the most effective thing I can do. I think it’s vital to deprofessionalize the public debate on matters that vitally affect the lives of ordinary people. It’s time to snatch our futures back from the “experts.” Time to ask, in ordinary language, the public question and to demand, in ordinary language, the public answer.  
 >
+<br/>
 
 > America’s grief at what happened has been immense and immensely public. It would be grotesque to expect it to calibrate or modulate its anguish. However, it will be a pity if, instead of using this as an opportunity to try and understand why September 11 happened, Americans use it as an opportunity to usurp the whole world’s sorrow to mourn and avenge only their own. Because then it falls to the rest of us to ask the hard questions and say the harsh things. And for our pains, for our bad timing, we will be disliked, ignored, and perhaps eventually silenced.  
 >
@@ -94,6 +101,7 @@
 >
 > So here we have it. The equivocating distinction between civilization and savagery, between the “massacre of innocent people,” or, if you like, “a clash of civilizations,” and “collateral damage.” The sophistry and fastidious algebra of Infinite Justice. How many dead Iraqis will it take to make the world a better place? How many dead Afghans for every dead American? How many dead children for every dead man? How many dead mujahideen for each dead investment banker?  
 >
+<br/>
 
 > But who is Osama bin Laden really?  
 >
@@ -113,6 +121,7 @@
 >
 > It’s not a choice that people want to, need to, or should have to make.  
 >
+<br/>
 
 > When he announced the air strikes, President George Bush said, “We’re a peaceful nation.” America’s favorite ambassador, Tony Blair (who also holds the portfolio of Prime Minister of the UK), echoed him: “We’re a peaceful people.”  
 >
@@ -126,6 +135,7 @@
 >
 > The International Coalition Against Terror is largely a cabal of the richest countries in the world. Between them, they manufacture and sell almost all of the world’s weapons. They possess the largest stockpile of weapons of mass destruction—chemical, biological, and nuclear. They have fought the most wars, account for most of the genocide, subjection, ethnic cleansing, and human rights violations in modern history, and have sponsored, armed, and financed untold numbers of dictators and despots. Between them, they have worshiped, almost deified, the cult of violence and war. For all its appalling sins, the Taliban just isn’t in the same league.  
 >
+<br/>
 
 > As a gesture of humanitarian support, the US government airdropped thirty-seven thousand packets of emergency rations into Afghanistan. It says it plans to drop more than five hundred thousand packets. That will still only add up to a single meal for half a million people out of the several million in dire need of food. Aid workers have condemned this as a cynical, dangerous public relations exercise. They say that airdropping food packets is worse than futile. First, because the food will never get to those who really need it. More dangerously, because those who run out to retrieve the packets risk being blown up by land mines. A tragic alms race.  
 >
@@ -135,9 +145,11 @@
 >
 > Reverse the scenario for a moment. Imagine if the Taliban government were to bomb New York City, saying all the while that its real target was the US government and its policies. And suppose, during breaks between the bombing, the Taliban dropped a few thousand packets containing nan and kababs impaled on an Afghan flag. Would the good people of New York ever find it in themselves to forgive the Afghan government? Even if they were hungry, even if they needed the food, even if they ate it, how would they ever forget the insult, the condescension? Rudy Giuliani, Mayor of New York City, returned a gift of $10 million from a Saudi prince because it came with a few words of friendly advice about American policy in the Middle East. Is pride a luxury that only the rich are entitled to?  
 >
+<br/>
 
 > Last year, like many others, I too made the mistake of scoffing at this post–September 11th rhetoric, dismissing it as foolish and arrogant. I’ve realized that it’s not foolish at all. It’s actually a canny recruitment drive for a misconceived, dangerous war. Every day I’m taken aback at how many people believe that opposing the war in Afghanistan amounts to supporting terrorism or voting for the Taliban. Now that the initial aim of the war—capturing Osama bin Laden (dead or alive)—seems to have run into bad weather, the goalposts have been moved. It’s being made out that the whole point of the war was to topple the Taliban regime and liberate Afghan women from their burqas. We’re being asked to believe that the US marines are actually on a feminist mission. (If so, will their next stop be America’s military ally Saudi Arabia?) Think of it this way: In India there are some pretty reprehensible social practices, against “Untouchables,” against Christians and Muslims, against women. Pakistan and Bangladesh have even worse ways of dealing with minority communities and women. Should they be bombed? Should Delhi, Islamabad, and Dhaka be destroyed? Is it possible to bomb bigotry out of India? Can we bomb our way to a feminist paradise? Is that how women won the vote in the United States? Or how slavery was abolished? Can we win redress for the genocide of the millions of Native Americans, upon whose corpses the United States was founded, by bombing Santa Fe?  
 >
+<br/>
 
 > Since it is September 11th that we’re talking about, perhaps it’s in the fitness of things that we remember what that date means, not only to those who lost their loved ones in America last year but to those in other parts of the world to whom that date has long held significance. This historical dredging is not offered as an accusation or a provocation. But just to share the grief of history. To thin the mist a little. To say to the citizens of America, in the gentlest, most human way: Welcome to the World.  
 >
@@ -151,6 +163,7 @@
 >
 > Sadly, Chile was not the only country in South America to be singled out for the US government’s attentions. Guatemala, Costa Rica, Ecuador, Brazil, Peru, the Dominican Republic, Bolivia, Nicaragua, Honduras, Panama, El Salvador, Peru, Mexico, and Colombia—they’ve all been the playground for covert—and overt—operations by the CIA. Hundreds of thousands of Latin Americans have been killed, tortured, or have simply disappeared under the despotic regimes and tin-pot dictators, drug runners, and arms dealers that were propped up in their countries. (Many of them learned their craft in the infamous US government–funded School of the Americas in Fort Benning, Georgia, which has produced sixty thousand graduates.) If this were not humiliation enough, the people of South America have had to bear the cross of being branded as a people who are incapable of democracy—as if coups and massacres are somehow encrypted in their genes.  
 >
+<br/>
 
 > Unlike in the old days, the New Imperialist doesn’t need to trudge around the tropics risking malaria or diarrhea or early death. New Imperialism can be conducted on e-mail. The vulgar, hands-on racism of Old Imperialism is outdated. The cornerstone of New Imperialism is New Racism.  
 >
@@ -160,11 +173,13 @@
 >
 > As part of the project of New Racism we also have New Genocide. New Genocide in this new era of economic interdependence can be facilitated by economic sanctions. New Genocide means creating conditions that lead to mass death without actually going out and killing people. Denis Halliday, who was the UN humanitarian coordinator in Iraq between 1997 and 1998 (after which he resigned in disgust), used the term genocide to describe the sanctions in Iraq.4 In Iraq the sanctions outdid Saddam Hussein’s best efforts by claiming more than half a million children’s lives.  
 >
+<br/>
 
 > No individual nation can stand up to the project of corporate globalization on its own. Time and again we have seen that when it comes to the neoliberal project, the heroes of our times are suddenly diminished. Extraordinary, charismatic men, giants in the opposition, when they seize power and become heads of state, they become powerless on the global stage. I’m thinking here of President Lula of Brazil. Lula was the hero of the World Social Forum (WSF) last year. This year he’s busy implementing IMF guidelines, reducing pension benefits, and purging radicals from the Workers’ Party. I’m thinking also of ex-president of South Africa Nelson Mandela. He instituted a program of privatization and structural adjustment, leaving millions of people homeless, jobless, and without water and electricity.  
 >
 > Why does this happen? There’s little point in beating our breasts and feeling betrayed. Lula and Mandela are, by any reckoning, magnificent men. But the moment they cross the floor from the opposition into government, they become hostage to a spectrum of threats—most malevolent among them the threat of capital flight, which can destroy any government overnight. To imagine that a leader’s personal charisma and a résumé of struggle will dent the corporate cartel is to have no understanding of how capitalism works, or for that matter how power works. Radical change will not be negotiated by governments; it can only be enforced by people.  
 >
+<br/>
 
 > The fact is that electoral democracy has become a process of cynical manipulation. It offers us a very reduced political space today. To believe that this space constitutes real choice would be naive.  
 >
@@ -182,6 +197,7 @@
 >
 > Billions wonder: Who’s “we”? Where does he live? What’s his Christian name?  
 >
+<br/>
 
 > A second hazard facing mass movements is the NGO-ization of resistance. It will be easy to twist what I’m about to say into an indictment of all NGOs. That would be a falsehood. In the murky waters of fake NGOs set up to siphon off grant money or as tax dodges (in states like Bihar, they are given as dowry), of course there are NGOs doing valuable work. But it’s important to turn our attention away from the positive work being done by some individual NGOs and consider the NGO phenomenon in a broader political context.  
 >
@@ -201,3 +217,4 @@
 >
 > It turns confrontation into negotiation. It depoliticizes resistance. It interferes with local peoples’ movements that have traditionally been self-reliant. NGOs have funds that can employ local people who might otherwise be activists in resistance movements but now can feel they are doing some immediate, creative good (and earning a living while they’re at it). Charity offers instant gratification to the giver, as well as the receiver, but its side effects can be dangerous. Real political resistance offers no such shortcuts.  
 >
+<br/>

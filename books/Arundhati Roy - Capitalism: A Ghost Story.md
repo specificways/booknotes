@@ -5,20 +5,25 @@
 >
 > Corporate-endowed foundations administer, trade, and channel their power and place their chessmen on the chessboard through a system of elite clubs and think tanks, whose members overlap and move in and out through the revolving doors. Contrary to the various conspiracy theories in circulation, particularly among left-wing groups, there is nothing secret, satanic, or Freemason-like about this arrangement. It is not very different from the way corporations use shell companies and offshore accounts to transfer and administer their money—except that the currency is power, not money.  
 >
+<br/>
 
 > Scholars of the foundations-friendly version of economics and political science were rewarded with fellowships, research funds, grants, endowments, and jobs. Those with foundation-unfriendly views found themselves unfunded, marginalized, and ghettoized, their courses discontinued. Gradually, one particular imagination—a brittle, superficial pretense of tolerance and multiculturalism (that morphs into racism, rabid nationalism, ethnic chauvinism, or warmongering Islamophobia at a moment’s notice) under the roof of a single overarching, very unplural economic ideology—began to dominate the discourse. It did so to such an extent that it ceased to be perceived as an ideology at all. It became the default position, the natural way to be. It infiltrated normality, colonized ordinariness, and challenging it began to seem as absurd or as esoteric as challenging reality itself. From here it was a quick, easy step to “There Is No Alternative.”  
 >
+<br/>
 
 > As the IMF enforced structural adjustment and arm-twisted governments into cutting back on public spending on health, education, child care, development, the NGOs moved in. The Privatization of Everything has also meant the NGO-ization of Everything. As jobs and livelihoods disappeared, NGOs have become an important source of employment, even for those who see them for what they are. And they are certainly not all bad. Of the millions of NGOs, some do remarkable, radical work, and it would be a travesty to tar all NGOs with the same brush. However, the corporate or foundation-endowed NGOs are global finance’s way of buying into resistance movements, literally as shareholders buy shares in companies, and then try to control them from within. They sit like nodes on the central nervous system, the pathways along which global finance flows. They work like transmitters, receivers, shock absorbers, alert to every impulse, careful never to annoy the governments of their host countries. (The Ford Foundation requires the organizations it funds to sign a pledge to this effect.) Inadvertently (and sometimes advertently) they serve as listening posts, their reports and workshops and other missionary activity feeding data into an increasingly aggressive system of surveillance of increasingly hardening states. The more troubled an area, the greater the numbers of NGOs in it.  
 >
+<br/>
 
 > The transformation of the idea of justice into the industry of human rights has been a conceptual coup in which NGOs and foundations have played a crucial part. The narrow focus of human rights enables an atrocity-based analysis in which the larger picture can be blocked out and both parties in a conflict—say for example the Maoists and the Indian government, or the Israeli army and Hamas—can both be admonished as Human Rights Violators. The land grab by mining corporations and the history of the annexation of Palestinian land by the state of Israel then become footnotes with very little bearing on the discourse. This is not to suggest that human rights don’t matter. They do, but they are not a good enough prism through which to view or remotely understand the great injustices in the world we live in.  
 >
+<br/>
 
 > Martin Luther King Jr. made the forbidden connections between Capitalism, Imperialism, Racism, and the Vietnam War. As a result, after he was assassinated even his memory became toxic, a threat to public order. Foundations and corporations worked hard to remodel his legacy to fit a market-friendly format. The Martin Luther King Jr. Center for Nonviolent Social Change, with an operational grant of $2 million, was set up by, among others, the Ford Motor Company, General Motors, Mobil, Western Electric, Proctor and Gamble, US Steel, and Monsanto. The center maintains the King Library and Archives of the Civil Rights Movement. Among the many programs the King Center runs have been projects that “work closely with the United States Department of Defense, the Armed Forces Chaplains Board and others.” It cosponsored the Martin Luther King Jr. Lecture Series called “The Free Enterprise System: An Agent for Nonviolent Social Change.”  
 >
 > Amen.  
 >
+<br/>
 
 > Capitalism’s real “gravediggers” may end up being its own delusional cardinals, who have turned ideology into faith. Despite their strategic brilliance, they seem to have trouble grasping a simple fact: Capitalism is destroying the planet. The two old tricks that dug it out of past crises—War and Shopping—simply will not work.  
 >
@@ -32,6 +37,7 @@
 >
 > Perhaps it’s time for us to take back the night.  
 >
+<br/>
 
 > All these wars, from the bombing of Hiroshima and Nagasaki to Vietnam, Korea, Latin America, have claimed millions of lives—all of them fought to secure “the American way of life.”  
 >
@@ -39,6 +45,7 @@
 >
 > The Indian government worships US economic policy. As a result of twenty years of the Free Market economy, today one hundred of India’s richest people own assets worth one-fourth of the country’s GDP while more than 80 percent of the people live on less than fifty cents a day. Two hundred fifty thousand farmers driven into a spiral of death have committed suicide. We call this progress and now think of ourselves as a superpower. Like you, we are well qualified, we have nuclear bombs and obscene inequality.  
 >
+<br/>
 
 > But here are some things—a few “pre-revolutionary” thoughts I had—for us to think about together.  
 >
@@ -62,3 +69,4 @@
 >
 > Salaam and Zindabad.  
 >
+<br/>

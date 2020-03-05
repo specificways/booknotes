@@ -5,6 +5,7 @@
 >
 > The special abuses inflicted on women thus facilitated the ruthless economic exploitation of their labor. The demands of this exploitation caused slaveowners to cast aside their orthodox sexist attitudes except for purposes of repression. If Black women were hardly “women” in the accepted sense, the slave system also discouraged male supremacy in Black men. Because husbands and wives, fathers and daughters were equally subjected to the slavemasters’ absolute authority, the promotion of male supremacy among the slaves might have prompted a dangerous rupture in the chain of command. Moreover, since Black women as workers could not be treated as the “weaker sex” or the “housewife,” Black men could not be candidates for the figure of “family head” and certainly not for “family provider.” After all, men, women and children alike were all “providers” for the slaveholding class.  
 >
+<br/>
 
 > In an essay I wrote in 1971—using the few resources allowed me in my jail cell—I characterized the significance of the slave woman’s domestic functions in the following way: “In the infinite anguish of ministering to the needs of the men and children around her …, she was performing the only labor of the slave community which could not be directly and immediately claimed by the oppressor. There was no compensation for work in the fields; it served no useful purpose for the slaves. Domestic labor was the only meaningful labor for the slave community as a whole.…  
 >
@@ -14,16 +15,19 @@
 >
 > The salient theme emerging from domestic life in the slave quarters is one of sexual equality. The labor that slaves performed for their own sake and not for the aggrandizement of their masters was carried out on terms of equality. Within the confines of their family and community life, therefore, Black people managed to accomplish a magnificent feat. They transformed that negative equality which emanated from the equal oppression they suffered as slaves into a positive quality: the egalitarianism characterizing their social relations.  
 >
+<br/>
 
 > Whatever the standards used to judge her—Black or white, male or female—Harriet Tubman was indeed an exceptional individual. But from another vantage point, what she did was simply to express in her own way the spirit of strength and perseverance which so many other women of her race had acquired. This bears repeating: Black women were equal to their men in the oppression they suffered; they were their men’s social equals within the slave community; and they resisted slavery with a passion equal to their men’s. This was one of the greatest ironies of the slave system, for in subjecting women to the most ruthless exploitation conceivable, exploitation which knew no sex distinctions, the groundwork was created not only for Black women to assert their equality through their social relations, but also to express it through their acts of resistance. This must have been a terrifying revelation for the slaveowners, for it seems that they were trying to break this chain of equality through the especially brutal repression they reserved for the women. Again, it is important to remember that the punishment inflicted on women exceeded in intensity the punishment suffered by their men, for women were not only whipped and mutilated, they were also *raped*.  
 >
 > It would be a mistake to regard the institutionalized pattern of rape during slavery as an expression of white men’s sexual urges, otherwise stifled by the specter of white womanhood’s chastity. That would be far too simplistic an explanation. Rape was a weapon of domination, a weapon of repression, whose covert goal was to extinguish slave women’s will to resist, and in the process, to demoralize their men.  
 >
+<br/>
 
 > Yet the incipient industrialization of the economy was simultaneously eroding women’s prestige in the home—a prestige based on their previously productive and absolutely essential domestic labor. Their social status began to deteriorate accordingly. An ideological consequence of industrial capitalism was the shaping of a more rigorous notion of female inferiority. It seemed, in fact, that the more women’s domestic duties shrank under the impact of industrialization, the more rigid became the assertion that “woman’s place is in the home.”  
 >
 > Actually, woman’s place had always been in the home, but during the pre-industrial era, the economy itself had been centered in the home and its surrounding farmland. While men had tilled the land (often aided by their wives), the women had been manufacturers, producing fabric, clothing, candles, soap and practically all the other family necessities. Women’s place had indeed been in the home—but not simply because they bore and reared children or ministered to their husbands’ needs. They had been productive workers within the home economy and their labor had been no less respected than their men’s. When manufacturing moved out of the home and into the factory, the ideology of womanhood began to raise the wife and mother as ideals. As workers, women had at least enjoyed economic equality, but as wives, they were destined to become appendages to their men, servants to their husbands. As mothers, they would be defined as passive vehicles for the replenishment of human life. The situation of the white housewife was full of contradictions. There was bound to be resistance.  
 >
+<br/>
 
 > The leader of the provocateurs had argued that it was ridiculous for women to desire the vote, since they could not even walk over a puddle or get into a carriage without the help of a man. Sojourner Truth pointed out with compelling simplicity that she herself had never been helped over mud puddles or into carriages. “And ain’t I a woman?” With a voice like “rolling thunder,”44 she said, “Look at me! Look at my arm,” and rolled up her sleeve to reveal the “tremendous muscular power” of her arm.  
 >
@@ -31,6 +35,7 @@
 >
 > As the only Black woman attending the Akron convention, Sojourner Truth had done what not one of her timid white sisters was capable of doing. According to the chairperson, “there were very few women in those days who dared to ‘speak in meeting.’ ” Having powerfully pleaded the cause of her sex, having commanded the attention of the white women as well as their disruptive male adversaries, Sojourner Truth was spontaneously applauded as the hero of the day.  
 >
+<br/>
 
 > Even the most radical white abolitionists, basing their opposition to slavery on moral and humanitarian grounds, failed to understand that the rapidly developing capitalism of the North was also an oppressive system. They viewed slavery as a detestable and inhuman institution, an archaic transgression of justice. But they did not recognize that the white worker in the North, his or her status as “free” laborer notwithstanding, was no different from the enslaved “worker” in the South: both were victims of economic exploitation. As militant as William Lloyd Garrison is supposed to have been, he was vehemently against wage laborers’ right to organize. The inaugural issue of the Liberator included an article denouncing the efforts of Boston workers to form a political party:  
 >
@@ -40,6 +45,7 @@
 >
 > The leaders of the women’s rights movement did not suspect that the enslavement of Black people in the South, the economic exploitation of Northern workers and the social oppression of women might be systematically related. Within the early women’s movement, little was said about white working people—not even about white women workers. Though many of the women were supporters of the abolitionist campaign, they failed to integrate their anti-slavery consciousness into their analysis of women’s oppression.  
 >
+<br/>
 
 > At this founding convention of the Women’s Loyal League—to which all the veterans of the abolitionist campaign and the women’s rights movement were invited—Angelina Grimke characteristically proposed the most advanced interpretation of the war she described as “our second revolution.”65  
 >
@@ -49,9 +55,11 @@
 >
 > Angelina Grimke’s brilliant “Address to the Soldiers of Our Second Revolution” demonstrated that her political consciousness was far more advanced than most of her contemporaries. In her speech she proposed a radical theory and practice which could have been realized through an alliance embracing labor, Black people and women. If, as Karl Marx said, “labor in a white skin can never be free as long as labor in a black skin is branded,” it was also true, as Angelina Grimke lucidly insisted, that the democratic struggles of the times—especially the fight for women’s equality—could be most effectively waged in association with the struggle for Black Liberation.  
 >
+<br/>
 
 > This feminist activist was perpetrating the very oppression she protested. Yet her contradictory behavior and her inordinate insensitivity are not without explanation, for people who work as servants are generally viewed as less than human beings. Inherent in the dynamic of the master-servant (or mistress-maid) relationship, said the philosopher Hegel, is the constant striving to annihilate the consciousness of the servant. The clerk referred to in the conversation was a wage laborer—a human being possessing at least a modicum of independence from her employer and her work. The servant, on the other hand, labored solely for the purpose of satisfying her mistress’ needs. Probably viewing her servant as a mere extension of herself, the feminist could hardly be conscious of her own active role as an oppressor.  
 >
+<br/>
 
 > During the second year of Anthony’s term the NAWSA passed a resolution which was a variation of Blackwell’s racist and class-biased argument of more than a century earlier.  
 >
@@ -65,11 +73,13 @@
 >
 > The last decade of the nineteenth century was a critical moment in the development of modern racism—its major institutional supports as well as its attendant ideological justifications. This was also the period of imperialist expansion into the Philippines, Hawaii, Cuba and Puerto Rico. The same forces that sought to subjugate the peoples of these countries were responsible for the worsening plight of Black people and the entire U.S. working class. Racism nourished those imperialist ventures and was likewise conditioned by imperialism’s strategies and apologetics.  
 >
+<br/>
 
 > It was thus not even a question of reading the handwriting on the wall. The reign of terror had already descended upon Black people. How could Susan B. Anthony claim to believe in human rights and political equality and at the same time counsel the members of her organization to remain silent on the issue of racism? Bourgeois ideology—and particularly its racist ingredients—must really possess the power of dissolving real images of terror into obscurity and insignificance, and of fading horrible cries of suffering human beings into barely audible murmurings and then silence.  
 >
 > When the new century rolled around, a serious ideological marriage had linked racism and sexism in a new way. White supremacy and male supremacy, which had always had an easy courtship, openly embraced and consolidated the affair. During the first years of the twentieth century the influence of racist ideas was stronger than ever. The intellectual climate—even in progressive circles—seemed to be fatally infected with irrational notions about the superiority of the Anglo-Saxon race. This escalated promotion of racist propaganda was accompanied by a similarly accelerated promotion of ideas implying female inferiority. If people of color—at home and abroad—were portrayed as incompetent barbarians, women—white women, that is—were more rigorously depicted as mother-figures, whose fundamental raison d’être was the nurturing of the male of the species. White women were learning that as mothers, they bore a very special responsibility in the struggle to safeguard white supremacy. After all, they were the “mothers of the race.” Although the term race allegedly referred to the “human race,” in practice—especially as the eugenics movement grew in popularity—little distinction was made between “the race” and “the Anglo-Saxon race.”  
 >
+<br/>
 
 > At the 1903 convention it was Belle Kearney from Mississippi whose remarks most blatantly confirmed the dangerous alliance between racism and sexism. Bluntly referring to the Southern Black population as the “4,500,000 ex-slaves, illiterate and semi-barbarous,” she histrionically evoked their enfranchisement as a “death-weight,” under which the South had struggled “for nearly forty years, bravely and magnanimously.” However inadequate Booker T. Washington’s theory of vocational education for Black people may have been in reality, Kearney insisted that Tuskegee and similar schools were “… only fitting (the negro) for power, and when the black man becomes necessary to a community by reason of his skill and acquired wealth,” something of a race war will result.  
 >
@@ -85,6 +95,7 @@
 >
 > Contrary to Kearney’s and Tillman’s logic, racial conflict did not emerge spontaneously, but rather was consciously planned by the representatives of the economically ascendant class. They needed to impede working-class unity so as to facilitate their own exploitative designs. The forthcoming “race riots”—Atlanta; Brownsville, Texas; Springfield, Ohio—like the 1898 massacres in Wilmington and Phoenix, South Carolina, were orchestrated precisely in order to heighten the tensions and antagonism within the multi-racial working class.  
 >
+<br/>
 
 > Although Susan B. Anthony, Elizabeth Cady Stanton and their colleagues on the paper made important contributions to the cause of working women, they never really accepted the principle of trade unionism. As they had been previously unwilling to concede that Black Liberation might claim momentary priority over their own interests as white women, they did not fully embrace the fundamental principles of unity and class solidarity, without which the labor movement would remain powerless. In the eyes of the suffragists, “woman” was the ultimate test—if the cause of woman could be furthered, it was not wrong for women to function as scabs when male workers in their trade were on strike. Susan B. Anthony was excluded from the 1869 convention of the National Labor Union because she had urged women printers to go to work as scabs.9 In defending herself at this convention, Anthony proclaimed that  
 >
@@ -98,11 +109,13 @@
 >
 > Susan B. Anthony would never have made such a statement if she had familiarized herself with the realities of working-class families. As working women knew all too well, their fathers, brothers, husbands and sons who exercised the right to vote continued to be miserably exploited by their wealthy employers. Political equality did not open the door to economic equality.  
 >
+<br/>
 
 > One of racism’s salient historical features has always been the assumption that white men—especially those who wield economic power—possess an incontestable right of access to Black women’s bodies.  
 >
 > Slavery relied as much on routine sexual abuse as it relied on the whip and the lash. Excessive sex urges, whether they existed among individual white men or not, had nothing to do with this virtual institutionalization of rape. Sexual coercion was, rather, an essential dimension of the social relations between slavemaster and slave. In other words, the right claimed by slaveowners and their agents over the bodies of female slaves was a direct expression of their presumed property rights over Black people as a whole. The license to rape emanated from and facilitated the ruthless economic domination that was the gruesome hallmark of slavery.  
 >
+<br/>
 
 > After the betrayal of Reconstruction and the accompanying disfranchisement of Black people, the specter of Black political supremacy as a pretext for lynching became outmoded. Still, as the postwar economic structure took shape, solidifying the superexploitation of Black labor, the number of lynchings continued to rise. This was the historical juncture when the cry of rape emerged as the major justification for lynching. Frederick Douglass’ explanation of the political motives underlying the creation of the mythical Black rapist is a brilliant analysis of the way ideology transforms to meet new historical conditions.  
 >
@@ -110,17 +123,21 @@
 >
 > This more shocking and blasting charge, of course, was rape. Lynching was now explained and rationalized as a method to avenge Black men’s assaults on white Southern womanhood. As one apologist for lynching insisted, it was necessary to find “… a way of meeting the extraordinary condition with extraordinary means—hence lynching in order to hold in check the Negro in the South.”  
 >
+<br/>
 
 > The colonization of the Southern economy by capitalists from the North gave lynching its most vigorous impulse. If Black people, by means of terror and violence, could remain the most brutally exploited group within the swelling ranks of the working class, the capitalists could enjoy a double advantage. Extra profits would result from the superexploitation of Black labor, and white workers’ hostilities toward their employers would be defused. White workers who assented to lynching necessarily assumed a posture of racial solidarity with the white men who were really their oppressors. This was a critical moment in the popularization of racist ideology.  
 >
+<br/>
 
 > When Margaret Sanger severed her ties with the Socialist party for the purpose of building an independent birth control campaign, she and her followers became more susceptible than ever before to the anti-Black and anti-immigrant propaganda of the times. Like their predecessors, who had been deceived by the “race suicide” propaganda, the advocates of birth control began to embrace the prevailing racist ideology. The fatal influence of the eugenics movement would soon destroy the progressive potential of the birth control campaign.  
 >
 > During the first decades of the twentieth century the rising popularity of the eugenics movement was hardly a fortuitous development. Eugenic ideas were perfectly suited to the ideological needs of the young monopoly capitalists. Imperialist incursions in Latin America and in the Pacific needed to be justified, as did the intensified exploitation of Black workers in the South and immigrant workers in the North and West. The pseudo-scientific racial theories associated with the eugenics campaign furnished dramatic apologies for the conduct of the young monopolies. As a result, this movement won the unhesitating support of such leading capitalists as the Carnegies, the Harrimans and the Kelloggs.  
 >
+<br/>
 
 > Revelations of sterilization abuse during that time exposed the complicity of the federal government. At first the Department of Health, Education and Welfare claimed that approximately 16,000 women and 8,000 men had been sterilized in 1972 under the auspices of federal programs. Later, however, these figures underwent a drastic revision. Carl Shultz, director of HEW’s Population Affairs Office, estimated that between 100,000 and 200,000 sterilizations had actually been funded that year by the federal government. During Hitler’s Germany, incidentally, 250,000 sterilizations were carried out under the Nazis’ Hereditary Health Law. Is it possible that the record of the Nazis, throughout the years of their reign, may have been almost equaled by U.S. government-funded sterilizations in the space of a single year?  
 >
+<br/>
 
 > As industrial capitalism approached consolidation, the cleavage between the new economic sphere and the old home economy became ever more rigorous. The physical relocation of economic production caused by the spread of the factory system was undoubtedly a drastic transformation. But even more radical was the generalized revaluation of production necessitated by the new economic system. While home-manufactured goods were valuable primarily because they fulfilled basic family needs, the importance of factory-produced commodities resided overwhelmingly in their exchange value—in their ability to fulfill employers’ demands for profit. This revaluation of economic production revealed—beyond the physical separation of home and factory—a fundamental structural separation between the domestic home economy and the profit-oriented economy of capitalism. Since housework does not generate profit, domestic labor was naturally defined as an inferior form of work as compared to capitalist wage labor.  
 >
@@ -128,13 +145,16 @@
 >
 > Although the “housewife” was rooted in the social conditions of the bourgeoisie and the middle classes, nineteenth-century ideology established the housewife and the mother as universal models of womanhood. Since popular propaganda represented the vocation of all women as a function of their roles in the home, women compelled to work for wages came to be treated as alien visitors within the masculine world of the public economy. Having stepped outside their “natural” sphere, women were not to be treated as full-fledged wage workers. The price they paid involved long hours, substandard working conditions and grossly inadequate wages. Their exploitation was even more intense than the exploitation suffered by their male counterparts. Needless to say, sexism emerged as a source of outrageous super-profits for the capitalists.  
 >
+<br/>
 
 > Like their men, Black women have worked until they could work no more. Like their men, they have assumed the responsibilities of family providers. The unorthodox feminine qualities of assertiveness and self-reliance—for which Black women have been frequently praised but more often rebuked—are reflections of their labor and their struggles outside the home. But like their white sisters called “housewives,” they have cooked and cleaned and have nurtured and reared untold numbers of children. But unlike the white housewives, who learned to lean on their husbands for economic security, Black wives and mothers, usually workers as well, have rarely been offered the time and energy to become experts at domesticity. Like their white working-class sisters, who also carry the double burden of working for a living and servicing husbands and children, Black women have needed relief from this oppressive predicament for a long, long time.  
 >
 > For Black women today and for all their working-class sisters, the notion that the burden of housework and child care can be shifted from their shoulders to the society contains one of the radical secrets of women’s liberation. Child care should be socialized, meal preparation should be socialized, housework should be industrialized—and all these services should be readily accessible to working-class people.  
 >
+<br/>
 
 > Each one of the more than 50 percent of all U.S. women who work today is a powerful argument for the alleviation of the burden of housework. As a matter of fact, enterprising capitalists have already begun to exploit women’s new historical need to emancipate themselves from their roles as housewives. Endless profit-making fast-food chains like McDonald’s and Kentucky Fried Chicken bear witness to the fact that more women at work means fewer daily meals prepared at home. However unsavory and unnutritious the food, however exploitative of their workers, these fast-food operations call attention to the approaching obsolescence of the housewife. What is needed, of course, are new social institutions to assume a good portion of the housewife’s old duties. This is the challenge emanating from the swelling ranks of women in the working class. The demand for universal and subsidized child care is a direct consequence of the rising number of working mothers. And as more women organize around the demand for more jobs—for jobs on the basis of full equality with men—serious questions will increasingly be raised about the future viability of women’s housewife duties. It may well be true that “slavery to an assembly line” is not in itself “liberation from the kitchen sink,” but the assembly line is doubtlessly the most powerful incentive for women to press for the elimination of their age-old domestic slavery.  
 >
 > The abolition of housework as the private responsibility of individual women is clearly a strategic goal of women’s liberation. But the socialization of housework—including meal preparation and child care—presupposes an end to the profit-motive’s reign over the economy. The only significant steps toward ending domestic slavery have in fact been taken in the existing socialist countries. Working women, therefore, have a special and vital interest in the struggle for socialism. Moreover, under capitalism, campaigns for jobs on an equal basis with men, combined with movements for institutions such as subsidized public child care, contain an explosive revolutionary potential. This strategy calls into question the validity of monopoly capitalism and must ultimately point in the direction of socialism.  
 >
+<br/>

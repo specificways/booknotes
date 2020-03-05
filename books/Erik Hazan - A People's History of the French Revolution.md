@@ -5,6 +5,7 @@
 >
 > Yet the significance of this Declaration was immense: it signalled the end of the Ancien Régime. To write that ‘the principle of all sovereignty lies essentially in the Nation’, that ‘the law is the expression of the general will’, and that ‘all citizens are equally admissible to all public dignities, positions and employments’, was to tear down the whole edifice of kingship by divine right. These sentences that sound self-evident today – even if their true consequences are not always drawn out – were the death-knell of the old order, and they set out the programme of the Revolution.  
 >
+<br/>
 
 > What distinguished the Jacobins from other clubs, and gradually gave them such power, was their spread throughout the country by way of affiliated groups. As Alexandre de Lameth recalled: ‘Round about December 1789, many leading inhabitants of the provinces, visiting Paris, were presented at the society and manifested the desire to establish one similar in the principal towns of France.’ By August 1790, according to Aulard, there were 152 affiliated societies, and in year II over a thousand. Relations between the Paris club and its off shoots were close, in both directions. Abbé Grégoire recalled:  
 >
@@ -12,6 +13,7 @@
 >
 > The society and its branches operated as a system for spreading revolutionary ideas across the country. Nothing is more absurd than the idea of ‘Jacobinism’ as an authoritarian and meddlesome Paris dictatorship. That is an interpretation handed down by Thermidor, as lasting as hatred of the Revolution.  
 >
+<br/>
 
 > As for the people, the Assembly sought to curtail the expression of their discontent, particularly its electoral expression. But this would mean violating the Declaration of Rights: how could they deprive men ‘equal in rights’ of an equal right to vote? How to get around Article VI, according to which ‘The law is the expression of the general will. All citizens have the right to contribute to its formation, personally or through their representatives.’ It was Sieyès who proposed the necessary contrivance: there would be two categories of free and equal men, ‘active citizens’, ‘the true stakeholders of the great social undertaking’, those who paid tax to a minimum equivalent to three days’ pay, and ‘passive citizens’, ‘labouring machines’ who owned no property and were excluded from the electoral system.  
 >
@@ -21,12 +23,15 @@
 >
 > "If the person who pays a contribution equivalent to no more than a day’s wage has fewer rights than the one who pays the value of three days, the person who pays ten days has more rights than the one whose tax is worth only three; from now on the person with a hundred thousand livres in rentes has a hundred times more rights than the one who has only an income of a thousand livres. [Yet] it follows from all your decrees that every citizen has the right to cooperate in legislation, and hence to be elector or eligible, without distinction of fortune."  
 >
+<br/>
 
 > This set of reforms, no matter how ‘bourgeois’ in terms of property qualification, was striking in its scope. The Assembly, a disparate set of landowners, rentiers, nobles, advocates and priests, managed to construct a coherent system on the ruins of the Ancien Régime, one that was both decentralized and unified, democratic in appearance and aristocratic/anti-popular in reality. And despite all the modifications made since, it is still in the spirit of the Constituent Assembly that we are living two centuries later.  
 >
+<br/>
 
 > All these episodes have been related and illustrated a hundred times over. But how to explain that the small town of Varennes dared to prevent the king from continuing his journey to the frontier? What moved these people to take the enormous risk of a confrontation with Bouillé’s hussars – a risk they took knowingly, as the Nancy affair was fresh in every mind? Timothy Tackett has provided some elements of an answer. Like thousands of small French towns, Varennes had formed a citizens’ militia in summer 1789: two companies, each with its uniform – the chasseurs in green, the grenadiers in blue – its flags, and its officers (the inn-keeper, the lawyer’s son), elected by their men. And in March 1791 a local branch of the Amis de la Constitution had been founded, affiliated to the Jacobins club in Paris. They had recently removed the parish priest from his office after he refused to take the constitutional oath. Whenever an emergency arose, all the small towns and villages of the region, similarly organized, sent reinforcements of every kind. Thus ‘the small, undistinctive town of Varennes’, Tackett writes, ‘was far better prepared – institutionally, militarily, and psychologically – to meet the crisis of June 21 than any of the conspirators of the king’s flight might have imagined.’ More generally, the failure of all the aristocratic intrigues and plots was undoubtedly due to the failure to grasp the transformations that had taken place in popular mentality and organization.  
 >
+<br/>
 
 > Discussions resumed on 11 May. The left demanded a vote on the previous question, thus sending the decree back to the committees. Grégoire proposed that ‘the Assembly [should enjoin] the commissioners charged with restoring order in the islands to do everything in their power to ensure that men of colour enjoy all the rights of active citizens’. Barnave’s reply emphasized the dangers of English competition and the need for caution; best to settle matters case by case. ‘By pronouncing on the political status of people of colour, you run the risk of losing the colonies.’  
 >
@@ -38,6 +43,7 @@
 >
 > In the end, the Assembly decided to replace the word ‘slave’ by the word ‘unfree’ – which amounted to the same thing – and passed the decree that made slavery constitutional. The debate thus ended with a victory for the colonial party.  
 >
+<br/>
 
 > In the face of this massive movement, opposition to war was scarcely visible. It was non-existent in the Assembly, where the far left had no presence. In the Jacobins club, it was confined for a long time to Robespierre alone. He was certainly listened to with respect, but not to the point of taking the whole club with him. On 12 December: ‘To whom would you entrust the conduct of this war? To the agents of the executive power. So you will abandon the security of the realm to those who want to destroy you. It follows from this that the thing we should fear most is war.’ And on 2 January 1792, about the real enemy: ‘Do we have them, any enemies within? No, you don’t know of any, you know only about Koblenz. Did you not tell us that the seat of evil is in Koblenz? So it is not in Paris? So there is no connection between Koblenz and another place that is not far from here?’  
 >
@@ -45,9 +51,11 @@
 >
 > "The most extravagant idea that can arise in the mind of a politician is the belief that a people need only make an armed incursion into the territory of a foreign people, to make it adopt its laws and its constitution. No one likes armed missionaries; and the first counsel given by nature and prudence is to repel them as enemies."  
 >
+<br/>
 
 > But the conflict was deeper still, with two opposing conceptions of the society to be created. The Girondins saw property as a basic natural right, and believed that the state had no business interfering in the free play of supply and demand. The Montagnards, while also upholding respect for property, defined this in a different way, subordinating it to the right to existence.  
 >
+<br/>
 
 > In the discussion on this report, Saint-Just spoke on 13 November in a quite different vein. His speech caused a sensation, as the speaker was a man of twenty-five who was previously unknown, and his tone, words and arguments were quite different from anything commonly heard.  
 >
@@ -61,16 +69,19 @@
 >
 > The motion proposed by Robespierre signified execution without trial: ‘Louis XVI, traitor to the nation, enemy of humanity, shall be punished by death in the place where the defenders of liberty perished on 10 August.’  
 >
+<br/>
 
 > It was these contentions that aroused such anger on the part of Edmund Burke, a Whig deputy formerly known for quite progressive positions in support of the American revolution, as well as the revolutions of the Irish and the Poles. His Reflections on the Revolution in France, published on 1 November 1790, was a bestseller, with 20,000 copies sold in six months. This work was above all an attack on the Declaration of Rights, and a warning to the English ruling class: what was happening in France could take place in England, if the members of the elite showed the same complacency as their French counterparts. Burke’s tone was poetic, violently conservative, and sometimes crude:  
 >
 > "In England we have not yet been completely embowelled of our natural entrails; we still feel within us, and we cherish and cultivate, those inbred sentiments which are the faithful guardians, the active monitors of our duty, the true supporters of all liberal and manly morals. We have not been drawn and trussed, with chaff and rags, and paltry blurred shreds of paper about the rights of man."  
 >
+<br/>
 
 > Robespierre’s speeches during the month of April 1793 reflect his growing radicalization. On the 6th, he said at the Jacobins: ‘Let us pass beneficent laws that will tend to bring food prices into line with the earnings of the poor.’ And on the 8th, again at the Jacobins:  
 >
 > "You have everything you need in the laws to exterminate our enemies legally. If there are aristocrats in the sections, expel them. If liberty needs rescuing, proclaim the rights of liberty and put your whole energy into it. You have an immense people of sans-culottes, utterly pure and vigorous, who cannot leave their work; have them be paid by the rich … I ask the sections to raise an army large enough to form the kernel of a Revolutionary Army that will draw all the sans-culottes from the departments to exterminate the rebels … I ask the Commune of Paris to support with all its power the revolutionary zeal of the people of Paris. I ask the Revolutionary Tribunal to do its duty, and punish those who in recent days have blasphemed against the Republic."  
 >
+<br/>
 
 > It does not make much sense, then, to fix the start of the Terror on 5 September 1793, no more than to see it as ending on 9 Thermidor of year II. The guillotine did not stop working on that day, quite the contrary: the White Terror of the Thermidorians was a massacre that rivalled anything carried out by the guillotine in the previous months.  
 >
@@ -78,6 +89,7 @@
 >
 > The notion of Terror with a capital T leads to equating the repressive action of the Revolutionary Tribunal in Paris with the massacres in the departments. But if the former was indeed due to the initiative of the revolutionary government, the latter were episodes in a civil war with casualties on both sides. And the figures are in no way commensurate: the war in the Vendée, the insurrections in the Midi and their repression, cost tens of thousands of lives. The Paris Tribunal, out of 4,021 verdicts delivered between 6 April 1793 and 9 Thermidor year II, pronounced 2,585 condemnations to death versus 1,306 acquittals. The notion of Terror appears in this light as the artificial conflation of very different events.  
 >
+<br/>
 
 > Saint-Just, in his report of 8 July 1793 ‘on the thirty-two members of the Convention detained by virtue of the decree of 2 June’, used the term ‘terror’ more than once, always in a negative sense (‘the attempt has been made to dominate the National Convention by disorder and terror’; ‘the plan to stifle Paris … had been attempted by means of armed force, then they thought to succeed by means of terror’; ‘the plan of Valazé, that of assembling citizens through terror’; ‘to confound the government with terror and declamations’). In his report of 8 Ventôse year II (26 February 1794) ‘on persons incarcerated’, he contrasted the effectiveness of justice with the garrulousness of terror: ‘Justice is more fearsome for the enemies of the Republic than mere terror. How many traitors have escaped terror, which talks, and would not escape justice, which weighs crimes in its hand! … Justice makes the people happy and consolidates the new order of things. Terror is a double-edged weapon, which some have used to avenge the people, and others to serve tyranny.’  
 >
@@ -85,17 +97,21 @@
 >
 > Terror with a capital T is a historically inconsistent notion, and it is an ideological artifice to superimpose a theory of Terror on the events of this time. As Haim Burstin has written, ‘the stereotype [of the Terror] has been increasingly distanced from its concrete origin, its actual materiality, to serve all kinds of political reflections on the history of France, eventually symbolizing by metonymy the Revolution itself.’  
 >
+<br/>
 
 > The popular societies demanded recognition of social categories that had been marginalized and shut out by the Church: unmarried mothers, illegitimate children, foundlings. On these points, and the rejection of traditional patriarchy as a whole, the Convention adopted measures that were astonishing for a country until recently subject to a generalized patriarchal system. In October 1793, the law established equal rights of inheritance for sons and daughters, extending this also to children born out of wedlock. It became impossible to favour one child in particular or to disinherit them. Within marriage, each spouse acquired equal right of control over common property, and a common contract for the whole of France was created to enshrine this equality. Foundlings, who made up a third of all births in Paris, became ‘natural children of the patrie’.  
 >
+<br/>
 
 > Two days later, at the Jacobins, Collot attacked the Indulgents and their policy of clemency:  
 >
 > "What! The Committee of Public Safety is being attacked in the press! It is accused of having spilled the blood of patriots! Blamed for the death of fifty thousand men! And do you believe that the authors of these tracts have acted in good faith? That men who translate the ancient historians for you [an allusion to Desmoulins] are patriots? They want to moderate the revolutionary movement. Well! Does one direct a storm? Let us cast far behind us any thought of moderation. Let us remain Jacobins, let us remain Montagnards, let us save liberty."  
 >
+<br/>
 
 > Unrest spread through the war manufactures and cotton-spinning workshops, where women workers, advised by Hébert, wrote a petition that they circulated with the aid of the popular society of the Marat section. ‘When reproved for the uncivic character of their demands, these workers replied that “they didn’t give a f …, they had Père Duchesne at their head”.’ The assembly of the Finistère section contended that the revolutionary army’s powers had been ‘castrated, by not attaching to each of its divisions some revolutionary judges and a guillotine, the terror of our enemies’.  
 >
+<br/>
 
 > A different explanation is offered by Soboul: there was a social confrontation between the Committees and the Cordeliers. This was ‘one episode in the struggle embarked on by the Committees, from September 1793, against the popular movement, to integrate it into the Jacobin framework of bourgeois revolution’. For Soboul, not the most orthodox of Marxist historians, the bourgeoisie (in this case, the Committees) was the driving force of the Revolution, and those who opposed it (the Cordeliers, the popular movement) went against the current and were therefore crushed. Soboul seems ill at ease between his genuine empathy with the sans-culottes and his ‘Marxist’ conception of the bourgeois revolution.  
 >
@@ -105,6 +121,7 @@
 >
 > The strategy of Robespierre and the Committees was completely focused on the war against the foreign coalition: it had to be won before the Constitution of 1793 could be applied, and a democratic and egalitarian republic constructed. But to win the war, all forces had to be united, all centrifugal movements controlled and if necessary repressed. The strategy of the Cordeliers, on the contrary, and of the whole leading wing of the popular movement, was to advance the revolution *at home* by putting the Moderates and Indulgents out of action, failing which the counter-revolution would triumph, with consequences that would include losing the war. The two strategies were irreconcilable. The first required a central grip, a brutal one if need be, the second relied on the autonomy of the popular societies and distrust towards any government, even a revolutionary one. The clash was inevitable.  
 >
+<br/>
 
 > Let us briefly recap. Under the Constituent Assembly, as we have seen, Robespierre took up positions that were remarkably coherent and courageous – positions in which he was always in a minority and sometimes completely alone: against the property restriction on suffrage (his extraordinary speech on the silver *marc*), for the civil rights of actors and Jews, against martial law, against slavery in the colonies, against the death penalty, for the right of petition and the freedom of the press. In what country, and in what assembly, has anyone rowed so consistently against the current, and with such strength of conviction? In the first sessions of the Constituent Assembly, he was mocked for his reedy voice and his shyness, but by the end his stature was such that he was able to get the Assembly to make a sacrifice unique in history, by ruling that its members would not be eligible for the next legislature.  
 >
@@ -116,6 +133,7 @@
 >
 > The proof that Robespierre was not a dictator is his end (to anticipate slightly). Isolated and at bay, he let himself be brought down – it could even be said that he went to the slaughter. A dictator, a Bonaparte, would have behaved rather differently.  
 >
+<br/>
 
 > When Léonard Bourdon broke into the Maison-Commune at the head of a hastily recruited column, boosted by the battalion of his own Gravilliers section, Le Bas shot himself in the head and died, Augustin Robespierre threw himself out of the window and broke his leg, and Couthon, in his wheelchair, hurled himself down the grand staircase and survived. Maximilien Robespierre tried to kill himself but managed only to smash his jaw, while Saint-Just let himself be taken without resistance, stoical and silent as he had been since his interrupted speech the previous day.  
 >
@@ -123,6 +141,7 @@
 >
 > Yet if only a third of the sections marched with the Commune that day, if the *sectionnaires* so readily dispersed into the night, this is because the Parisian popular movement, brought to heel by the very men it was supposed to defend that evening, was no longer what it had been on 10 August or 31 May. The proclamation of the maximum wage, *just four days previous*, was the last straw in dividing it from the Robespierrists in the Commune. Its relative passivity was no more than the decree absolute of a divorce begun during the winter of year II.  
 >
+<br/>
 
 > So 9 Thermidor does indeed constitute a rupture; but since this date clearly does not mark the ‘end’ of the Revolution, what other moment should be chosen as the final curtain? It is not very convincing to end with the last session of the Convention, nor with the pitiful exit of the Directory on 18 Brumaire of year VIII, nor again with the transition from the Consulate to the Empire. Did the Revolution end with the departure for St Helena of the man in the little hat, whom Mme de Staël saw as a ‘Robespierre on horseback’?  
 >
@@ -130,3 +149,4 @@
 >
 > The heirs of the Thermidorians, who have governed and taught us continuously ever since, seek to travesty this history. Against them, let us keep memory alive, and never lose the inspiration of a time when one heard tell that ‘the unfortunate are the powers of the Earth’, that ‘the essence of the Republic or of democracy is equality’, and that ‘the purpose of society is the common happiness’.  
 >
+<br/>

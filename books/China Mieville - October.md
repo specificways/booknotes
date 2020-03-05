@@ -3,6 +3,7 @@
 >
 > In reaction to such ‘slavish feelings’, he nurses a furious honour. ‘I came to hate capitalism and my boss … even more intensely.’  
 >
+<br/>
 
 > Mid-August, and a wave of mysterious explosions rocked munitions factories in Petrograd and Kazan. It was seemingly the work of pro-German saboteurs.  
 >
@@ -14,14 +15,17 @@
 >
 > Of eleven wealthy Muscovites he met one evening for dinner, ten told the great American journalist John Reed that if it came to it, they would rather have Wilhelm than the Bolsheviks. In the journal Utro Rossii, Rodzianko wrote with astonishing candour: ‘I say to myself, “Let God take care of Petrograd.” They fear that if Petrograd is lost the central revolutionary organisations will be destroyed … I rejoice if all these organisations are destroyed; for they will bring nothing but disaster upon Russia.’  
 >
+<br/>
 
 > It seemed to many citizens, the upheaval notwithstanding, almost like a normal day in Petrograd. A certain amount of racket and kerfuffle was impossible to ignore, certainly, but relatively few people were involved in the actual fighting, and only at key points. As those combatants went about their insurrectionary or counterrevolutionary work, reconfiguring the world, most trams were running, most shops stayed open.  
 >
+<br/>
 
 > When the cheering subsided, Trotsky himself rose to respond to Martov.  
 >
 > ‘A rising of the masses of the people requires no justification,’ he said. ‘What has happened is an insurrection, and not a conspiracy. We hardened the revolutionary energy of the Petersburg workers and soldiers. We openly forged the will of the masses for an insurrection, and not a conspiracy. The masses of the people followed our banner and our insurrection was victorious. And now we are told: renounce your victory, make concessions, compromise. With whom? I ask: with whom ought we to compromise? With those wretched groups which have left us or who are making this proposal? But after all we’ve had a full view of them. No one in Russia is with them any longer. A compromise is supposed to be made, as between two equal sides, by the millions of workers and peasants represented in this congress, whom they are ready, not for the first time or the last, to barter away as the bourgeoisie sees fit. No, here no compromise is possible. To those who have left and to those who tell us to do this we must say: you are miserable bankrupts, your role is played out. Go where you ought to go: into the dustbin of history!’  
 >
+<br/>
 
 > ‘The Kornilovites … are endeavouring to lead troops against Petrograd … Soldiers! Resist Kerensky, who is a Kornilovite! … Railwaymen! Stop all echelons sent by Kerensky against Petrograd! Soldiers, Workers, Employees! The fate of the revolution and democratic peace is in your hands!’  
 >
@@ -35,6 +39,7 @@
 >
 > Exhausted, drunk on history, nerves still taut as wires, the delegates to the Second Congress of Soviets stumbled out of Smolny. They stepped out of the finishing school into a new moment of history, a new kind of first day, that of a workers’ government, morning in a new city, the capital of a workers’ state. They walked into the winter under a dim but lightening sky.  
 >
+<br/>
 
 > At the Fourteenth Party Congress, in 1924, against the protests of Trotsky and others, the party performs a giddying about-face. Now it officially accepts Stalin’s claim that ‘in general the victory of socialism (not in the sense of final victory) is unconditionally possible in one country’.  
 >
@@ -44,11 +49,13 @@
 >
 > The effects of the new position are devastating. As any vestigial culture of debate and democracy withers, the bureaucrats become custodians of a top-down development towards a monstrosity they call ‘socialism’. And Stalin, the ‘grey blur’ at the heart of the machine, builds up his power base, his own status as most equal of all.  
 >
+<br/>
 
 > There have been a hundred years of crude, ahistorical, ignorant, bad-faith and opportunist attacks on October. Without echoing such sneers, we must nonetheless interrogate the revolution.  
 >
 > The old regime was vile and violent, while Russian liberalism was weak, and quick to make common cause with reaction. All the same, did October lead inexorably to Stalin? It is an old question, but one still very much alive. Is the gulag the telos of 1917?  
 >
+<br/>
 
 > Those who count themselves on the side of the revolution must engage with these failures and crimes. To do otherwise is to fall into apologia, special pleading, hagiography – and to run the risk of repeating such mistakes.  
 >
@@ -64,6 +71,7 @@
 >
 > The specifics of Russia, 1917, are distinct and crucial. It would be absurd, a ridiculous myopia, to hold up October as a simple lens through which to view the struggles of today. But it has been a long century, a long dusk of spite and cruelty, the excrescence and essence of its time. Twilight, even remembered twilight, is better than no light at all. It would be equally absurd to say that there is nothing we can learn from the revolution. To deny that the sumerki of October can be ours, and that it need not always be followed by night.  
 >
+<br/>
 
 > The revolution of 1917 is a revolution of trains. History proceeding in screams of cold metal. The tsar’s wheeled palace, shunted into sidings forever; Lenin’s sealed stateless carriage; Guchkov and Shulgin’s meandering abdication express; the trains criss-crossing Russia heavy with desperate deserters; the engine stoked by ‘Konstantin Ivanov’, Lenin in his wig, eagerly shovelling coal. And more and more will come: Trotsky’s armoured train, the Red Army’s propaganda trains, the troop carriers of the Civil War. Looming trains, trains hurtling through trees, out of the dark.  
 >
@@ -73,6 +81,7 @@
 >
 > ‘I have gone where you did not want me to go.’  
 >
+<br/>
 
 > The question for history is not only who should be driving the engine, but where. The Prokopoviches have something to fear, and they police these suspect, illegal branch lines, all the while insisting they do not exist.  
 >
@@ -80,3 +89,4 @@
 >
 > Or so it looks from the liberated train, in liberty’s dim light.  
 >
+<br/>

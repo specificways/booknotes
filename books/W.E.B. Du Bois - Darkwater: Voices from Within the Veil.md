@@ -1,6 +1,7 @@
 # Darkwater: Voices from Within the Veil by W.E.B. Du Bois #
 > My Days of Disillusion were not disappointing enough to discourage me. I was still upheld by that fund of infinite faith, although dimly about me I saw the shadow of disaster. I began to realize how much of what I had called Will and Ability was sheer Luck! *Suppose* my good mother had preferred a steady income from my child labor rather than bank on the precarious dividend of my higher training? *Suppose* that pompous old village judge, whose dignity we often ruffled and whose apples we stole, had had his way and sent me while a child to a “reform” school to learn a “trade”? *Suppose* Principal Hosmer had been born with no faith in “darkies,” and instead of giving me Greek and Latin had taught me carpentry and the making of tin pans? *Suppose* I had missed a Harvard scholarship? *Suppose* the Slater Board had then, as now, distinct ideas as to where the education of Negroes should stop? Suppose and suppose! As I sat down calmly on flat earth and looked at my life a certain great fear seized me. Was I the masterful captain or the pawn of laughing sprites? Who was I to fight a world of color prejudice? I raise my hat to myself when I remember that, even with these thoughts, I did not hesitate or waver; but just went doggedly to work, and therein lay whatever salvation I have achieved.  
 >
+<br/>
 
 > And yet; whose is the deeper guilt? Who made these devils? Who nursed them in crime and fed them on injustice? Who ravished and debauched their mothers and their grandmothers? Who bought and sold their crime and waxed fat and rich on public iniquity?  
 >
@@ -8,12 +9,15 @@
 >
 > Is this Thy Justice, O Father, that guile be easier than innocence and the innocent be crucified for the guilt of the untouched guilty?  
 >
+<br/>
 
 > Here it is that the comedy verges to tragedy. The first minor note is struck, all unconsciously, by those worthy souls in whom consciousness of high descent brings burning desire to spread the gift abroad,—the obligation of nobility to the ignoble. Such sense of duty assumes two things: a real possession of the heritage and its frank appreciation by the humble-born. So long, then, as humble black folk, voluble with thanks, receive barrels of old clothes from lordly and generous whites, there is much mental peace and moral satisfaction. But when the black man begins to dispute the white man’s title to certain alleged bequests of the Fathers in wage and position, authority and training; and when his attitude toward charity is sullen anger rather than humble jollity; when he insists on his human right to swagger and swear and waste,—then the spell is suddenly broken and the philanthropist is ready to believe that Negroes are impudent, that the South is right, and that Japan wants to fight America.  
 >
+<br/>
 
 > Conceive this nation, of all human peoples, engaged in a crusade to make the “World Safe for Democracy”! Can you imagine the United States protesting against Turkish atrocities in Armenia, while the Turks are silent about mobs in Chicago and St. Louis; what is Louvain compared with Memphis, Waco, Washington, Dyersburg, and Estill Springs? In short, what is the black man but America’s Belgium, and how could America condemn in Germany that which she commits, just as brutally, within her own borders?  
 >
+<br/>
 
 > Among some of us, I doubt not, this sudden descent of Europe into hell brought unbounded surprise; to others, over wide area, it brought the *Schaden Freude* of the bitterly hurt; but most of us, I judge, looked on silently and sorrowfully, in sober thought, seeing sadly the prophecy of our own souls.  
 >
@@ -21,6 +25,7 @@
 >
 > These super-men and world-mastering demi-gods listened, however, to no low tongues of ours, even when we pointed silently to their feet of clay. Perhaps we, as folk of simpler soul and more primitive type, have been most struck in the welter of recent years by the utter failure of white religion. We have curled our lips in something like contempt as we have witnessed glib apology and weary explanation. Nothing of the sort deceived us. A nation’s religion is its life, and as such white Christianity is a miserable failure.  
 >
+<br/>
 
 > Harris declares that King Leopold’s regime meant the death of twelve million natives, “but what we who were behind the scenes felt most keenly was the fact that the real catastrophe in the Congo was desolation and murder in the larger sense. The invasion of family life, the ruthless destruction of every social barrier, the shattering of every tribal law, the introduction of criminal practices which struck the chiefs of the people dumb with horror—in a word, a veritable avalanche of filth and immorality overwhelmed the Congo tribes.”  
 >
@@ -34,12 +39,15 @@
 >
 > The greatness of Europe has lain in the width of the stage on which she has played her part, the strength of the foundations on which she has builded, and a natural, human ability no whit greater (if as great) than that of other days and races. In other words, the deeper reasons for the triumph of European civilization lie quite outside and beyond Europe,—back in the universal struggles of all mankind.  
 >
+<br/>
 
 > It is curious to see America, the United States, looking on herself, first, as a sort of natural peacemaker, then as a moral protagonist in this terrible time. No nation is less fitted for this role. For two or more centuries America has marched proudly in the van of human hatred,—making bonfires of human flesh and laughing at them hideously, and making the insulting of millions more than a matter of dislike,—rather a great religion, a world war-cry: Up white, down black; to your tents, O white folk, and world war with black and parti-colored mongrel beasts!  
 >
+<br/>
 
 > The guiding principles before such a commission should be clearly understood. In the first place, it ought by this time to be realized by the labor movement throughout the world that no industrial democracy can be built on industrial despotism, whether the two systems are in the same country or in different countries, since the world today so nearly approaches a common industrial unity. If, therefore, it is impossible in any single land to uplift permanently skilled labor without also raising common labor, so, too, there can be no permanent uplift of American or European labor as long as African laborers are slaves.  
 >
+<br/>
 
 > How should we think such a problem through, not simply as Negroes, but as men and women of a new century, helping to build a new world? And first of all, here is no simple question of race antagonism. There are no races, in the sense of great, separate, pure breeds of men, differing in attainment, development, and capacity. There are great groups,—now with common history, now with common interests, now with common ancestry; more and more common experience and present interest drive back the common blood and the world today consists, not of races, but of the imperial commercial group of master capitalists, international and predominantly white; the national middle classes of the several nations, white, yellow, and brown, with strong blood bonds, common languages, and common history; the international laboring class of all colors; the backward, oppressed groups of nature-folk, predominantly yellow, brown, and black.  
 >
@@ -51,6 +59,7 @@
 >
 > Yesterday we righted one great mistake when we realized that the ownership of the laborer did not tend to increase production. The world at large had learned this long since, but black slavery arose again in America as an inexplicable anachronism, a wilful crime. The freeing of the black slaves freed America. Today we are challenging another ownership,—the ownership of materials which go to make the goods we need. Private ownership of land, tools, and raw materials may at one stage of economic development be a method of stimulating production and one which does not greatly interfere with equitable distribution. When, however, the intricacy and length of technical production increased, the ownership of these things becomes a monopoly, which easily makes the rich richer and the poor poorer. Today, therefore, we are challenging this ownership; we are demanding general consent as to what materials shall be privately owned and as to how materials shall be used. We are rapidly approaching the day when we shall repudiate all private property in raw materials and tools and demand that distribution hinge, not on the power of those who monopolize the materials, but on the needs of the mass of men.  
 >
+<br/>
 
 > There came a reaction. Men sneered at “democracy” and politics, and brought forth Fate and Philanthropy to rule the world—Fate which gave divine right to rule to the Captains of Industry and their created Millionaires; Philanthropy which organized vast schemes of relief to stop at least the flow of blood in the vaster wounds which industry was making.  
 >
@@ -70,6 +79,7 @@
 >
 > Whether known as Communism or Socialism or what not, these efforts are neither new nor strange nor terrible, but world-old and seeking an absolutely justifiable human ideal—the only ideal that can be sought: the direction of individual action in industry so as to secure the greatest good of all.  
 >
+<br/>
 
 > These restrictions are not arguments for the wide distribution of the ballot—they are rather reasons for restriction addressed to the self interest of the present real rulers. We say easily, for instance, “The ignorant ought not to vote.” We would say, “No civilized state should have citizens too ignorant to participate in government,” and this statement is but a step to the fact: that no state is civilized which has citizens too ignorant to help rule it. Or, in other words, education is not a prerequisite to political control—political control is the cause of popular education.  
 >
@@ -79,15 +89,19 @@
 >
 > In fact no one knows himself but that self’s own soul. The vast and wonderful knowledge of this marvelous universe is locked in the bosoms of its individual souls. To tap this mighty reservoir of experience, knowledge, beauty, love, and deed we must appeal not to the few, not to some souls, but to all. The narrower the appeal, the poorer the culture; the wider the appeal the more magnificent are the possibilities. Infinite is human nature. We make it finite by choking back the mass of men, by attempting to speak for others, to interpret and act for them, and we end by acting for ourselves and using the world as our private property. If this were all, it were crime enough—but it is not all: by our ignorance we make the creation of the greater world impossible; we beat back a world built of the playing of dogs and laughter of children, the song of Black Folk and worship of Yellow, the love of women and strength of men, and try to express by a group of doddering ancients the Will of the World.  
 >
+<br/>
 
 > The doctrine of the divine right of majorities leads to almost humorous insistence on a dead level of mediocrity. It demands that all people be alike or that they be ostracized. At the same time its greatest accusation against rebels is this same desire to be alike: the suffragette is accused of wanting to be a man, the socialist is accused of envy of the rich, and the black man is accused of wanting to be white. That any one of these should simply want to be himself is to the average worshiper of the majority inconceivable, and yet of all worlds, may the good Lord deliver us from a world where everybody looks like his neighbor and thinks like his neighbor and is like his neighbor.  
 >
+<br/>
 
 > In industry, monarchy and the aristocracy rule, and there are those who, calling themselves democratic, believe that democracy can never enter here. Industry, they maintain, is a matter of technical knowledge and ability, and, therefore, is the eternal heritage of the few. They point to the failure of attempts at democratic control in industry, just as we used to point to Spanish-American governments, and they expose, not simply the failures of Russian Soviets,—they fly to arms to prevent that greatest experiment in industrial democracy which the world has yet seen. These are the ones who say: We must control labor or civilization will fail; we must control white labor in Europe and America; above all, we must control yellow labor in Asia and black labor in Africa and the South, else we shall have no tea, or rubber, or cotton. And yet,—and yet is it so easy to give up the dream of democracy? Must industry rule men or may men rule even industry? And unless men rule industry, can they ever hope really to make laws or educate children or create beauty?  
 >
+<br/>
 
 > But beyond all this must come the Spirit—the Will to Human Brotherhood of all Colors, Races, and Creeds; the Wanting of the Wants of All. Perhaps the finest contribution of current Socialism to the world is neither its light nor its dogma, but the idea back of its one mighty word—Comrade!  
 >
+<br/>
 
 > In one year, 1917, we spent $96,700,000,000 for war. We blew it away to murder, maim, and destroy! Why? Because the blind, brutal crime of powerful and selfish interests made this path through hell the only visible way to heaven. We did it. We had to do it, and we are glad the putrid horror is over. But, now, are we prepared to spend less to make a world in which the resurgence of such devilish power will be impossible?  
 >
@@ -107,9 +121,11 @@
 >
 > These questions are not “problems.” They are simply “excuses” for spending less time and money on the next generation. Given ten millions of dollars a year, what can we best do with the education of a million children? The real answer is—kill nine hundred and ninety thousand of them quickly and not gradually, and make thoroughly-trained men and women of the other ten thousand. But who set the limit of ten million dollars? Who says it shall not be ten thousand millions, as it ought to be? You and I say it, and in saying it we sin against the Holy Ghost.  
 >
+<br/>
 
 > Pessimism is cowardice. The man who cannot frankly acknowledge the “Jim-Crow” car as a fact and yet live and hope is simply afraid either of himself or of the world. There is not in the world a more disgraceful denial of human brotherhood than the “Jim-Crow” car of the southern United States; but, too, just as true, there is nothing more beautiful in the universe than sunset and moonlight on Montego Bay in far Jamaica. And both things are true and both belong to this our world, and neither can be denied.  
 >
+<br/>
 
 > Awake me, God! I sleep!  
 >
@@ -139,9 +155,11 @@
 >
 > This stone and stucco drift of dreams?  
 >
+<br/>
 
 > Those Who Leave and Those Who Stay by Elena Ferrante  
 >
+<br/>
 
 > Lila gazed at the water pitcher in the middle of the table, with its comical rooster’s head: Gennaro liked it. She whispered:  
 >
@@ -191,12 +209,16 @@
 >
 > “Sleep.”  
 >
+<br/>
 
 > Capone was right, also Nadia and Armando. It was a weak initiative, a forced effort. Lila worked at cutting the meat furiously, she had a desire to hurt and be hurt. To jab her hand with the knife, let it slip, now, from the dead flesh to her own living flesh. To shout, hurl herself at the others, make them all pay for her inability to find an equilibrium. Ah, Lina Cerullo, you are beyond correction. Why did you make that list? You don’t want to be exploited? You want to improve your condition and the condition of these people? You’re convinced that you, and they, starting from here, from what you are now, will join the victorious march of the proletariat of the whole world? No way. March to become what? Now and forever workers? Workers who slave from morning to night but are empowered? Nonsense. Hot air to sweeten the pill of toil. You know that it’s a terrible condition, it shouldn’t be improved but eliminated, you’ve known it since you were a child. Improve, improve yourself? You, for example, are you improved, have you become like Nadia or Isabella? Is your brother improved, has he become like Armando? And your son, is he like Marco? No, we remain us and they are they. So why don’t you resign yourself? Blame the mind that can’t settle down, that is constantly seeking a way to function. Designing shoes. Getting busy setting up a shoe factory. Rewriting Nino’s articles, tormenting him until he did as you said. Using for your own purposes the installments from Zurich, with Enzo. And now demonstrating to Nadia that if she is making the revolution, you are even more. The mind, ah yes, the evil is there, it’s the mind’s discontent that causes the body to get sick. I’ve had it with myself, with everything. I’ve even had it with Gennaro: his fate, if all goes well, is to end up in a place like this, crawling to some boss for another five lire. So? So, Cerullo, take up your responsibilities and do what you have always had in mind: frighten Soccavo, eliminate his habit of fucking the workers in the drying room. Show the student with the wolf face what you’ve prepared. That summer on Ischia. The drinks, the house in Forio, the luxurious bed where I was with Nino. The money came from this place, from this evil smell, from these days spent in disgust, from this poorly paid labor. What did I cut, here? A revolting yellowish pulp spurted out. The world turns but, luckily, if it falls it breaks.  
 >
+<br/>
 
 > The night before I left for Florence I couldn’t sleep. Of all the painful thoughts the most persistent had to do with Pasquale. His criticisms burned me. At first I had rejected them altogether, now I was wavering between the conviction that they were undeserved and the idea that if Lila said he was right maybe I really had been mistaken. Finally I did something I had never done: I got out of bed at four in the morning and left the house by myself, before dawn. I felt very unhappy; I wished something terrible would happen to me, an event that, punishing me for my mistaken actions and my wicked thoughts, would as a result punish Lila, too. But nothing happened. I walked for a long time on the deserted streets, which were much safer than when they were crowded. The sky turned violet. I reached the sea, a gray sheet under a pale sky with scattered pink-edged clouds. The mass of Castel dell’Ovo was cut sharply in two by the light, a shining ochre shape on the Vesuvius side, a brown stain on the Mergellina and Posillipo side. The road along the cliff was empty, the sea made no sound but gave off an intense odor. Who knows what feeling I would have had about Naples, about myself, if I had waked every morning not in my neighborhood but in one of those buildings along the shore. What am I seeking? To change my origins? To change, along with myself, others, too? Repopulate this now deserted city with citizens not assailed by poverty or greed, not bitter or angry, who could delight in the splendor of the landscape like the divinities who once inhabited it? Indulge my demon, give him a good life and feel happy? I had used the power of the Airotas, people who for generations had been fighting for socialism, people who were on the side of men and women like Pasquale and Lila, not because I thought I would be fixing all the broken things of the world but because I was in a position to help a person I loved, and it seemed wrong not to do so. Had I acted badly? Should I have left Lila in trouble? Never again, never again would I lift a finger for anyone. I departed, I went to get married.  
 >
+<br/>
 
 > At a certain point I went to look for Dede. I found her in the hall with Mirko and her doll. They were pretending to be a mother and father with their baby, but it wasn’t peaceful: they were pretending to have a fight. I stopped. Dede instructed Mirko: *You have to hit me, understand*? The new living flesh was replicating the old in a game, we were a chain of shadows who had always been on the stage with the same burden of love, hatred, desire, and violence. I observed Dede carefully; she seemed to resemble Pietro. Mirko, on the other hand, was just like Nino.  
 >
+<br/>
